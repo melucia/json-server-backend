@@ -122,7 +122,7 @@
       "city": "Bali",
       "country": "Indonesia",
       "description": "Bali is a province of Indonesia and the westernmost of the Lesser Sunda Islands. East of Java and west of Lombok, the province includes the island of Bali and a few smaller offshore islands, notably Nusa Penida, Nusa Lembongan, and Nusa Ceningan to the southeast.",
-      "activity": "Chilling aGorgeous Beaches",
+      "activity": "Chilling at Gorgeous Beaches",
       "hightlight": "Ancient Temples",
       "image": "https://images.pexels.com/photos/931007/pexels-photo-931007.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
     },
@@ -134,6 +134,61 @@
       "activity": "Casa Parlante",
       "hightlight": "Paleokastrtsa Beach",
       "image": "https://static.wixstatic.com/media/ffadd3_87de6407c5de413982816f739c08a7b1~mv2.jpg/v1/fill/w_1080%2Ch_1080%2Cal_c%2Cq_90/file.jpg"
+    },
+    {
+      "id": 16,
+      "city": "London",
+      "country": "United Kingdom ",
+      "description": "The capital of the United Kingdom is a thriving multicultural metropolis. The contrast between the spectacular historic sights, the grind of a big city, and the lively cultural and foodie scene makes London an interesting and exciting destination.",
+      "activity": "Historic Sightseeing",
+      "hightlight": "Notting Hill",
+      "image": "https://images.pexels.com/photos/89432/pexels-photo-89432.jpeg"
+    },
+    {
+      "id": 17,
+      "city": "Portland",
+      "country": "USA",
+      "description": "Portland, Oregon, is one of America's most unique cities. With a world-class food scene, plentiful local breweries, and postcard-perfect scenery, it's surprising that more people don't visit this eclectic city.",
+      "activity": "Portland Saturday Market",
+      "hightlight": "Forest Park",
+      "image": "https://images.pexels.com/photos/1699574/pexels-photo-1699574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 18,
+      "city": "Reykjavík",
+      "country": "Iceland",
+      "description": "Reykjavik, on the coast of Iceland, is the country's capital and largest city. It's home to the National and Saga museums, tracing Iceland's Viking history. The striking concrete Hallgrimskirkja church and rotating Perlan glass dome offer sweeping views of the sea and nearby hills. Exemplifying the island's volcanic activity is the geothermal Blue Lagoon spa, near the village of Grindavik.",
+      "activity": "Whale Watching ",
+      "hightlight": "Trip to Þingvellir National Park",
+      "image": "https://images.pexels.com/photos/1009136/pexels-photo-1009136.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 19,
+      "city": "Riga",
+      "country": "Latvia",
+      "description": "Riga, the capital of Latvia, is not only the crown jewel of Latvia, but also of the Baltics. Riga's Old Town is a UNESCO World Heritage Site. Riga has more than 600 000 inhabitants, making it the largest city in the Baltic States",
+      "activity": "Husky dog sled kart ride",
+      "hightlight": "Ratslaukums",
+      "image": "https://images.pexels.com/photos/5871332/pexels-photo-5871332.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 20,
+      "city": "Dubrovnik",
+      "country": "Croatia",
+      "description": "Dubrovnik is a city in southern Croatia fronting the Adriatic Sea. It's known for its distinctive Old Town, encircled with massive stone walls completed in the 16th century. Its well-preserved buildings range from baroque St. Blaise Church to Renaissance Sponza Palace and Gothic Rector's Palace, now a history museum.",
+      "activity": "Game of Thrones Tour",
+      "hightlight": "Old Town",
+      "image": "https://images.pexels.com/photos/580897/pexels-photo-580897.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 21,
+      "city": "PAB",
+      "country": "USA",
+      "description": "ABc",
+      "activity": "ABC",
+      "hightlight": "CAB",
+      "image": "URL"
     }
+
   ]
 }
