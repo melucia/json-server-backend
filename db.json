@@ -1,33 +1,139 @@
 {
-  "projects": [
+  "places": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "city": "Seattle",
+      "country": "USA",
+      "description": "Seattle is a lovely city, surrounded by the beautiful Elliot Bay and Lake Union, with gorgeous mountains towering in the background. As a city, Seattle isn’t overwhelmingly large, or too complicated to tackle in a weekend, but it still has a big city feel and all of the services and excitement you expect.",
+      "activity": "Pike Place Market",
+      "hightlight": "Space Needle",
+      "image": "https://images.pexels.com/photos/3964406/pexels-photo-3964406.jpeg"
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "city": "Cairns",
+      "country": "Australia",
+      "description": "As the gateway to Far North Queensland, Cairns is the number one base for travellers exploring the Daintree Rainforest and the Great Barrier Reef. More accessible, affordable and lively than its northern, small town counterparts, Cairns casts a wide appeal, enticing all kinds of travellers, from families to honeymooners and backpackers.",
+      "activity": "Diving",
+      "hightlight": "Great Barrier Reef",
+      "image": "https://images.pexels.com/photos/2397653/pexels-photo-2397653.jpeg"
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "description": "The capital of Denmark, the bykes and the hygge. Copenhagen features a blend of modern architecture and historical artifacts but also art galleries, narrow streets, canals, parks, and Baroque churches round out the city’s cultural attractions.",
+      "activity": "Nyhavn",
+      "hightlight": "Christiania Free Town",
+      "image": "https://cdn.britannica.com/47/83447-050-42342CB1/Nyhavn-Canal-Copenhagen.jpg"
+    },
+    {
+      "id": 4,
+      "city": "Ushuaia",
+      "country": "Argentina",
+      "description": "Ushuaia claims to be the world's southernmost city. It's a perfect place for skiing and hiking in its wonderful lakes and parks.",
+      "activity": "End of the world train",
+      "hightlight": "Esmeralda Lagoon",
+      "image": "https://images.pexels.com/photos/11545135/pexels-photo-11545135.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 5,
+      "city": "Port Barton",
+      "country": "Philipines",
+      "description": "Port Barton 's quiet and stunning. The combination makes you feel what island paradise should look like. A day trip to Port Barton with its nearby islands certainly completes your provincial journey. If you're looking for a fun outdoor activity, try kayaking. From Port Barton, kayaking to other neighboring islands, such as the Sandbar or Starfish Island, is possible as it's nearby. Make sure to wear a safety jacket!",
+      "activity": "Kayaking",
+      "hightlight": "Boat tour to other islands",
+      "image": "https://assets-global.website-files.com/576fd5a8f192527e50a4b95c/5d864545f0c5f3f16281fe55_port%20barton%20island.jpg"
+    },
+    {
+      "id": 6,
+      "city": "Berlin",
+      "country": "Germany",
+      "description": "Berlin's combo of glamour and grit is bound to mesmerise all those keen to explore its vibrant culture, cutting-edge architecture, fabulous food, intense parties and tangible history.",
+      "activity": "Museums",
+      "hightlight": "Alex (Berlin Television Tower)",
+      "image": "https://images.pexels.com/photos/1963082/pexels-photo-1963082.jpeg"
+    },
+    {
+      "id": 7,
+      "city": "Cape Town",
+      "country": "South Africa",
+      "description": "A coming-together of cultures, cuisines and landscapes, there's nowhere quite like Cape Town, a singularly beautiful city crowned by the magnificent Table Mountain National Park.",
+      "activity": "Robben Island",
+      "hightlight": "Twelve Apostel",
+      "image": "https://images.pexels.com/photos/3770287/pexels-photo-3770287.jpeg"
+    },
+    {
+      "id": 8,
+      "city": "Rome",
+      "country": "Italy",
+      "description": "The eternal city. The beauty of Rome and its 3,000 years of existence is that it always knows how to surprise. Perfectly combines a lot of history and delicious food. ",
+      "activity": "The Colosseum",
+      "hightlight": "Trevi Fountain",
+      "image": "https://images.pexels.com/photos/753639/pexels-photo-753639.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 9,
+      "city": "Jericoacoara",
+      "country": "Brazil",
+      "description": "Jericoacoara is an idyllic peaceful fishing village situated amongst sand dunes on Brazil's North East Coast. Jeri, as it's affectionately called by the locals, is surrounded by sweet-water lagoons, a calm ocean and enormous sand dunes and enjoys 320 sunny days a year",
+      "activity": "Lagoa do Paraiso",
+      "hightlight": "Duna do Por do Sol",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/8a/61/9e/redinhas.jpg?w=1200&h=-1&s=1"
+    },
+    {
+      "id": 10,
+      "city": "Málaga",
+      "country": "Spain",
+      "description": "If we take the combination of culture and the sea and add a lively atmosphere, numerous tapas served in bars, cutting-edge neighbourhoods like Soho, areas like the port that have transformed and become more modern and monuments with centuries of history, the result is a city full of passion that anyone would want to explore.",
+      "activity": "Gibralfaro Castle",
+      "hightlight": "Picasso Musseum",
+      "image": "https://images.pexels.com/photos/19156674/pexels-photo-19156674/free-photo-of-square-in-malaga-spain.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 11,
+      "city": "Wildalpen",
+      "country": "Austria",
+      "description": "Wildalpen is an idyllic village in the district of Liezen in Austria that is perfect for hiking. Wildalpen's geographical location makes it a popular destination for outdoor enthusiasts and nature lovers.",
+      "activity": "Rafting, hiking",
+      "hightlight": "Green River",
+      "image": "https://www.instagram.com/p/CTG5tLOMrFS/"
+    },
+    {
+      "id": 12,
+      "city": "Albufeira",
+      "country": "Portugal",
+      "description": "The salt-washed and vibrant holidaying mecca of the Algarve. Spreading from a buzzy marina that's peppered with bars and clubs to a cobbled Old Town that bursts with souvenir stalls and Portuguese tapas joints, Albufeira is the hub of a region that's famed for its beaches and quaint hill towns. You won't have to go far to escape the crowds.",
+      "activity": "Old Town",
+      "hightlight": "Praia da Coelha",
+      "image": "https://fullsuitcase.com/wp-content/uploads/2023/02/Albufeira-Portugal-best-things-to-do-and-places-to-visit.jpg"
+    },
+    {
+      "id": 13,
+      "city": "Tokyo",
+      "country": "Japan",
+      "description": "Tokyo, Japan’s busy capital, mixes the ultramodern and the traditional, from neon-lit skyscrapers to historic temples. The opulent Meiji Shinto Shrine is known for its towering gate and surrounding woods. The Imperial Palace sits amid large public gardens.",
+      "activity": "Eat Sushi",
+      "hightlight": "Hamarikyu Garden",
+      "image": "https://images.pexels.com/photos/2506923/pexels-photo-2506923.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 14,
+      "city": "Bali",
+      "country": "Indonesia",
+      "description": "Bali is a province of Indonesia and the westernmost of the Lesser Sunda Islands. East of Java and west of Lombok, the province includes the island of Bali and a few smaller offshore islands, notably Nusa Penida, Nusa Lembongan, and Nusa Ceningan to the southeast.",
+      "activity": "Chilling aGorgeous Beaches",
+      "hightlight": "Ancient Temples",
+      "image": "https://images.pexels.com/photos/931007/pexels-photo-931007.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 15,
+      "city": "Corfu",
+      "country": "Greece",
+      "description": "Corfu is studded with whitewashed houses, Byzantine churches, and the remains of Venetian fortresses and Greek temples.",
+      "activity": "Casa Parlante",
+      "hightlight": "Paleokastrtsa Beach",
+      "image": "https://static.wixstatic.com/media/ffadd3_87de6407c5de413982816f739c08a7b1~mv2.jpg/v1/fill/w_1080%2Ch_1080%2Cal_c%2Cq_90/file.jpg"
     }
   ]
 }
