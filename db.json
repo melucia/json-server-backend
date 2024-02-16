@@ -6,7 +6,7 @@
       "country": "USA",
       "description": "Seattle is a lovely city, surrounded by the beautiful Elliot Bay and Lake Union, with gorgeous mountains towering in the background. As a city, Seattle isn’t overwhelmingly large, or too complicated to tackle in a weekend, but it still has a big city feel and all of the services and excitement you expect.",
       "activity": "Pike Place Market",
-      "hightlight": "Space Needle",
+      "highlight": "Space Needle",
       "image": "https://images.pexels.com/photos/3964406/pexels-photo-3964406.jpeg"
     },
     {
@@ -15,7 +15,7 @@
       "country": "Australia",
       "description": "As the gateway to Far North Queensland, Cairns is the number one base for travellers exploring the Daintree Rainforest and the Great Barrier Reef. More accessible, affordable and lively than its northern, small town counterparts, Cairns casts a wide appeal, enticing all kinds of travellers, from families to honeymooners and backpackers.",
       "activity": "Diving",
-      "hightlight": "Great Barrier Reef",
+      "highlight": "Great Barrier Reef",
       "image": "https://images.pexels.com/photos/2397653/pexels-photo-2397653.jpeg"
     },
     {
@@ -24,7 +24,7 @@
       "country": "Denmark",
       "description": "The capital of Denmark, the bykes and the hygge. Copenhagen features a blend of modern architecture and historical artifacts but also art galleries, narrow streets, canals, parks, and Baroque churches round out the city’s cultural attractions.",
       "activity": "Nyhavn",
-      "hightlight": "Christiania Free Town",
+      "highlight": "Christiania Free Town",
       "image": "https://cdn.britannica.com/47/83447-050-42342CB1/Nyhavn-Canal-Copenhagen.jpg"
     },
     {
@@ -33,7 +33,7 @@
       "country": "Argentina",
       "description": "Ushuaia claims to be the world's southernmost city. It's a perfect place for skiing and hiking in its wonderful lakes and parks.",
       "activity": "End of the world train",
-      "hightlight": "Esmeralda Lagoon",
+      "highlight": "Esmeralda Lagoon",
       "image": "https://images.pexels.com/photos/11545135/pexels-photo-11545135.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
@@ -42,7 +42,7 @@
       "country": "Philipines",
       "description": "Port Barton 's quiet and stunning. The combination makes you feel what island paradise should look like. A day trip to Port Barton with its nearby islands certainly completes your provincial journey. If you're looking for a fun outdoor activity, try kayaking. From Port Barton, kayaking to other neighboring islands, such as the Sandbar or Starfish Island, is possible as it's nearby. Make sure to wear a safety jacket!",
       "activity": "Kayaking",
-      "hightlight": "Boat tour to other islands",
+      "highlight": "Boat tour to other islands",
       "image": "https://assets-global.website-files.com/576fd5a8f192527e50a4b95c/5d864545f0c5f3f16281fe55_port%20barton%20island.jpg"
     },
     {
@@ -51,7 +51,7 @@
       "country": "Germany",
       "description": "Berlin's combo of glamour and grit is bound to mesmerise all those keen to explore its vibrant culture, cutting-edge architecture, fabulous food, intense parties and tangible history.",
       "activity": "Museums",
-      "hightlight": "Alex (Berlin Television Tower)",
+      "highlight": "Alex (Berlin Television Tower)",
       "image": "https://images.pexels.com/photos/1963082/pexels-photo-1963082.jpeg"
     },
     {
@@ -60,7 +60,7 @@
       "country": "South Africa",
       "description": "A coming-together of cultures, cuisines and landscapes, there's nowhere quite like Cape Town, a singularly beautiful city crowned by the magnificent Table Mountain National Park.",
       "activity": "Robben Island",
-      "hightlight": "Twelve Apostel",
+      "highlight": "Twelve Apostel",
       "image": "https://images.pexels.com/photos/3770287/pexels-photo-3770287.jpeg"
     },
     {
@@ -69,7 +69,7 @@
       "country": "Italy",
       "description": "The eternal city. The beauty of Rome and its 3,000 years of existence is that it always knows how to surprise. Perfectly combines a lot of history and delicious food. ",
       "activity": "The Colosseum",
-      "hightlight": "Trevi Fountain",
+      "highlight": "Trevi Fountain",
       "image": "https://images.pexels.com/photos/753639/pexels-photo-753639.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
@@ -78,7 +78,7 @@
       "country": "Brazil",
       "description": "Jericoacoara is an idyllic peaceful fishing village situated amongst sand dunes on Brazil's North East Coast. Jeri, as it's affectionately called by the locals, is surrounded by sweet-water lagoons, a calm ocean and enormous sand dunes and enjoys 320 sunny days a year",
       "activity": "Lagoa do Paraiso",
-      "hightlight": "Duna do Por do Sol",
+      "highlight": "Duna do Por do Sol",
       "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/8a/61/9e/redinhas.jpg?w=1200&h=-1&s=1"
     },
     {
@@ -87,7 +87,7 @@
       "country": "Spain",
       "description": "If we take the combination of culture and the sea and add a lively atmosphere, numerous tapas served in bars, cutting-edge neighbourhoods like Soho, areas like the port that have transformed and become more modern and monuments with centuries of history, the result is a city full of passion that anyone would want to explore.",
       "activity": "Gibralfaro Castle",
-      "hightlight": "Picasso Musseum",
+      "highlight": "Picasso Musseum",
       "image": "https://images.pexels.com/photos/19156674/pexels-photo-19156674/free-photo-of-square-in-malaga-spain.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
@@ -96,7 +96,7 @@
       "country": "Austria",
       "description": "Wildalpen is an idyllic village in the district of Liezen in Austria that is perfect for hiking. Wildalpen's geographical location makes it a popular destination for outdoor enthusiasts and nature lovers.",
       "activity": "Rafting, hiking",
-      "hightlight": "Green River",
+      "highlight": "Green River",
       "image": "https://images.pexels.com/photos/20278017/pexels-photo-20278017.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
     },
     {
@@ -105,7 +105,7 @@
       "country": "Portugal",
       "description": "The salt-washed and vibrant holidaying mecca of the Algarve. Spreading from a buzzy marina that's peppered with bars and clubs to a cobbled Old Town that bursts with souvenir stalls and Portuguese tapas joints, Albufeira is the hub of a region that's famed for its beaches and quaint hill towns. You won't have to go far to escape the crowds.",
       "activity": "Old Town",
-      "hightlight": "Praia da Coelha",
+      "highlight": "Praia da Coelha",
       "image": "https://fullsuitcase.com/wp-content/uploads/2023/02/Albufeira-Portugal-best-things-to-do-and-places-to-visit.jpg"
     },
     {
@@ -114,7 +114,7 @@
       "country": "Japan",
       "description": "Tokyo, Japan’s busy capital, mixes the ultramodern and the traditional, from neon-lit skyscrapers to historic temples. The opulent Meiji Shinto Shrine is known for its towering gate and surrounding woods. The Imperial Palace sits amid large public gardens.",
       "activity": "Eat Sushi",
-      "hightlight": "Hamarikyu Garden",
+      "highlight": "Hamarikyu Garden",
       "image": "https://images.pexels.com/photos/2506923/pexels-photo-2506923.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
     },
     {
@@ -123,7 +123,7 @@
       "country": "Indonesia",
       "description": "Bali is a province of Indonesia and the westernmost of the Lesser Sunda Islands. East of Java and west of Lombok, the province includes the island of Bali and a few smaller offshore islands, notably Nusa Penida, Nusa Lembongan, and Nusa Ceningan to the southeast.",
       "activity": "Chilling at Gorgeous Beaches",
-      "hightlight": "Ancient Temples",
+      "highlight": "Ancient Temples",
       "image": "https://images.pexels.com/photos/931007/pexels-photo-931007.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
     },
     {
@@ -132,7 +132,7 @@
       "country": "Greece",
       "description": "Corfu is studded with whitewashed houses, Byzantine churches, and the remains of Venetian fortresses and Greek temples.",
       "activity": "Casa Parlante",
-      "hightlight": "Paleokastrtsa Beach",
+      "highlight": "Paleokastrtsa Beach",
       "image": "https://static.wixstatic.com/media/ffadd3_87de6407c5de413982816f739c08a7b1~mv2.jpg/v1/fill/w_1080%2Ch_1080%2Cal_c%2Cq_90/file.jpg"
     },
     {
@@ -141,7 +141,7 @@
       "country": "United Kingdom ",
       "description": "The capital of the United Kingdom is a thriving multicultural metropolis. The contrast between the spectacular historic sights, the grind of a big city, and the lively cultural and foodie scene makes London an interesting and exciting destination.",
       "activity": "Historic Sightseeing",
-      "hightlight": "Notting Hill",
+      "highlight": "Notting Hill",
       "image": "https://images.pexels.com/photos/89432/pexels-photo-89432.jpeg"
     },
     {
@@ -150,7 +150,7 @@
       "country": "USA",
       "description": "Portland, Oregon, is one of America's most unique cities. With a world-class food scene, plentiful local breweries, and postcard-perfect scenery, it's surprising that more people don't visit this eclectic city.",
       "activity": "Portland Saturday Market",
-      "hightlight": "Forest Park",
+      "highlight": "Forest Park",
       "image": "https://images.pexels.com/photos/1699574/pexels-photo-1699574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
     },
     {
@@ -159,7 +159,7 @@
       "country": "Iceland",
       "description": "Reykjavik, on the coast of Iceland, is the country's capital and largest city. It's home to the National and Saga museums, tracing Iceland's Viking history. The striking concrete Hallgrimskirkja church and rotating Perlan glass dome offer sweeping views of the sea and nearby hills. Exemplifying the island's volcanic activity is the geothermal Blue Lagoon spa, near the village of Grindavik.",
       "activity": "Whale Watching ",
-      "hightlight": "Trip to Þingvellir National Park",
+      "highlight": "Trip to Þingvellir National Park",
       "image": "https://images.pexels.com/photos/1009136/pexels-photo-1009136.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
     },
     {
@@ -168,7 +168,7 @@
       "country": "Latvia",
       "description": "Riga, the capital of Latvia, is not only the crown jewel of Latvia, but also of the Baltics. Riga's Old Town is a UNESCO World Heritage Site. Riga has more than 600 000 inhabitants, making it the largest city in the Baltic States",
       "activity": "Husky dog sled kart ride",
-      "hightlight": "Ratslaukums",
+      "highlight": "Ratslaukums",
       "image": "https://images.pexels.com/photos/5871332/pexels-photo-5871332.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
     },
     {
@@ -177,7 +177,7 @@
       "country": "Croatia",
       "description": "Dubrovnik is a city in southern Croatia fronting the Adriatic Sea. It's known for its distinctive Old Town, encircled with massive stone walls completed in the 16th century. Its well-preserved buildings range from baroque St. Blaise Church to Renaissance Sponza Palace and Gothic Rector's Palace, now a history museum.",
       "activity": "Game of Thrones Tour",
-      "hightlight": "Old Town",
+      "highlight": "Old Town",
       "image": "https://images.pexels.com/photos/580897/pexels-photo-580897.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
     },
     {
@@ -186,7 +186,7 @@
       "country": "USA",
       "description": "ABc",
       "activity": "ABC",
-      "hightlight": "CAB",
+      "highlight": "CAB",
       "image": "URL"
     }
 
