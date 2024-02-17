@@ -4,271 +4,484 @@
       "id": 1,
       "city": "Seattle",
       "country": "USA",
-      "description": "Seattle is a lovely city, surrounded by the beautiful Elliot Bay and Lake Union, with gorgeous mountains towering in the background. As a city, Seattle isn’t overwhelmingly large, or too complicated to tackle in a weekend, but it still has a big city feel and all of the services and excitement you expect.",
+      "description": "Lively city with stunning bay views and a relaxed Pacific Northwest vibe",
+      "text-text-description": "Seattle is a lovely city, surrounded by the beautiful Elliot Bay and Lake Union, with gorgeous mountains towering in the background. As a city, Seattle isn’t overwhelmingly large, or too complicated to tackle in a weekend, but it still has a big city feel and all of the services and excitement you expect.",
       "activity": "Pike Place Market",
       "highlight": "Space Needle",
-      "image": "https://images.pexels.com/photos/3964406/pexels-photo-3964406.jpeg"
+      "image": "https://images.pexels.com/photos/3964406/pexels-photo-3964406.jpeg",
+      "tagOne": "Cityscape",
+      "tagTwo": "Culinary delights"
     },
     {
       "id": 2,
       "city": "Cairns",
       "country": "Australia",
-      "description": "As the gateway to Far North Queensland, Cairns is the number one base for travellers exploring the Daintree Rainforest and the Great Barrier Reef. More accessible, affordable and lively than its northern, small town counterparts, Cairns casts a wide appeal, enticing all kinds of travellers, from families to honeymooners and backpackers.",
+      "description": "Gateway to the Great Barrier Reef, offering vibrant coastal adventures",
+      "text-text-description": "As the gateway to Far North Queensland, Cairns is the number one base for travellers exploring the Daintree Rainforest and the Great Barrier Reef. More accessible, affordable and lively than its northern, small town counterparts, Cairns casts a wide appeal, enticing all kinds of travellers, from families to honeymooners and backpackers.",
       "activity": "Diving",
       "highlight": "Great Barrier Reef",
-      "image": "https://images.pexels.com/photos/2397653/pexels-photo-2397653.jpeg"
+      "image": "https://images.pexels.com/photos/2397653/pexels-photo-2397653.jpeg",
+      "tagOne": "Beach",
+      "tagTwo": "Adventure Destination"
     },
     {
       "id": 3,
       "city": "Copenhagen",
       "country": "Denmark",
-      "description": "The capital of Denmark, the bykes and the hygge. Copenhagen features a blend of modern architecture and historical artifacts but also art galleries, narrow streets, canals, parks, and Baroque churches round out the city’s cultural attractions.",
+      "description": "Blend of modernity and charm, with scenic canals and cozy streets",
+      "text-text-description": "The capital of Denmark, the bykes and the hygge. Copenhagen features a blend of modern architecture and historical artifacts but also art galleries, narrow streets, canals, parks, and Baroque churches round out the city’s cultural attractions.",
       "activity": "Nyhavn",
       "highlight": "Christiania Free Town",
-      "image": "https://cdn.britannica.com/47/83447-050-42342CB1/Nyhavn-Canal-Copenhagen.jpg"
+      "image": "https://cdn.britannica.com/47/83447-050-42342CB1/Nyhavn-Canal-Copenhagen.jpg",
+      "tagOne": "Cityscape",
+      "tagTwo": "Art and Museums"
     },
     {
       "id": 4,
       "city": "Ushuaia",
       "country": "Argentina",
-      "description": "Ushuaia claims to be the world's southernmost city. It's a perfect place for skiing and hiking in its wonderful lakes and parks.",
+      "description": "Southernmost city for thrilling outdoor activities amidst breathtaking landscapes",
+      "text-text-description": "Ushuaia claims to be the world's southernmost city. It's a perfect place for skiing and hiking in its wonderful lakes and parks.",
       "activity": "End of the world train",
       "highlight": "Esmeralda Lagoon",
-      "image": "https://images.pexels.com/photos/11545135/pexels-photo-11545135.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "image": "https://images.pexels.com/photos/11545135/pexels-photo-11545135.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tagOne": "Mountain",
+      "tagTwo": "Adventure Destination"
     },
     {
       "id": 5,
       "city": "Port Barton",
       "country": "Philipines",
-      "description": "Port Barton 's quiet and stunning. The combination makes you feel what island paradise should look like. A day trip to Port Barton with its nearby islands certainly completes your provincial journey. If you're looking for a fun outdoor activity, try kayaking. From Port Barton, kayaking to other neighboring islands, such as the Sandbar or Starfish Island, is possible as it's nearby. Make sure to wear a safety jacket!",
+      "description": "Tranquil paradise with pristine beaches and captivating island hopping",
+      "text-text-text-description": "Port Barton 's quiet and stunning. The combination makes you feel what island paradise should look like. A day trip to Port Barton with its nearby islands certainly completes your provincial journey. If you're looking for a fun outdoor activity, try kayaking. From Port Barton, kayaking to other neighboring islands, such as the Sandbar or Starfish Island, is possible as it's nearby. Make sure to wear a safety jacket!",
       "activity": "Kayaking",
       "highlight": "Boat tour to other islands",
-      "image": "https://assets-global.website-files.com/576fd5a8f192527e50a4b95c/5d864545f0c5f3f16281fe55_port%20barton%20island.jpg"
+      "image": "https://assets-global.website-files.com/576fd5a8f192527e50a4b95c/5d864545f0c5f3f16281fe55_port%20barton%20island.jpg",
+      "tagOne": "Beach",
+      "tagTwo": "Island Paradise" 
     },
     {
       "id": 6,
       "city": "Berlin",
       "country": "Germany",
-      "description": "Berlin's combo of glamour and grit is bound to mesmerise all those keen to explore its vibrant culture, cutting-edge architecture, fabulous food, intense parties and tangible history.",
+      "description": "Dynamic metropolis blending history, culture, and electrifying nightlife",
+      "text-description": "Berlin's combo of glamour and grit is bound to mesmerise all those keen to explore its vibrant culture, cutting-edge architecture, fabulous food, intense parties and tangible history.",
       "activity": "Museums",
       "highlight": "Alex (Berlin Television Tower)",
-      "image": "https://images.pexels.com/photos/1963082/pexels-photo-1963082.jpeg"
+      "image": "https://images.pexels.com/photos/1963082/pexels-photo-1963082.jpeg",
+      "tagOne": "Cityscape",
+      "tagTwo": "Nightlife"
     },
     {
       "id": 7,
       "city": "Cape Town",
       "country": "South Africa",
-      "description": "A coming-together of cultures, cuisines and landscapes, there's nowhere quite like Cape Town, a singularly beautiful city crowned by the magnificent Table Mountain National Park.",
+      "description":  "Diverse city with iconic mountain backdrops and rich cultural heritage",
+      "text-description": "A coming-together of cultures, cuisines and landscapes, there's nowhere quite like Cape Town, a singularly beautiful city crowned by the magnificent Table Mountain National Park.",
       "activity": "Robben Island",
       "highlight": "Twelve Apostel",
-      "image": "https://images.pexels.com/photos/3770287/pexels-photo-3770287.jpeg"
+      "image": "https://images.pexels.com/photos/3770287/pexels-photo-3770287.jpeg",
+      "tagOne": "Beach",
+      "tagTwo": "Mountain"  
+
     },
     {
       "id": 8,
       "city": "Rome",
       "country": "Italy",
-      "description": "The eternal city. The beauty of Rome and its 3,000 years of existence is that it always knows how to surprise. Perfectly combines a lot of history and delicious food. ",
+      "description": "Eternal city of ancient wonders, culinary delights, and romantic charm",
+      "text-description": "The eternal city. The beauty of Rome and its 3,000 years of existence is that it always knows how to surprise. Perfectly combines a lot of history and delicious food. ",
       "activity": "The Colosseum",
       "highlight": "Trevi Fountain",
-      "image": "https://images.pexels.com/photos/753639/pexels-photo-753639.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "image": "https://images.pexels.com/photos/753639/pexels-photo-753639.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tagOne": "Cityscape",
+      "tagTwo": "Romantic Getaway"
     },
     {
       "id": 9,
       "city": "Jericoacoara",
       "country": "Brazil",
-      "description": "Jericoacoara is an idyllic peaceful fishing village situated amongst sand dunes on Brazil's North East Coast. Jeri, as it's affectionately called by the locals, is surrounded by sweet-water lagoons, a calm ocean and enormous sand dunes and enjoys 320 sunny days a year",
+      "description": "Idyllic coastal village surrounded by sand dunes and crystal-clear waters",
+      "text-description": "Jericoacoara is an idyllic peaceful fishing village situated amongst sand dunes on Brazil's North East Coast. Jeri, as it's affectionately called by the locals, is surrounded by sweet-water lagoons, a calm ocean and enormous sand dunes and enjoys 320 sunny days a year",
       "activity": "Lagoa do Paraiso",
       "highlight": "Duna do Por do Sol",
-      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/8a/61/9e/redinhas.jpg?w=1200&h=-1&s=1"
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/8a/61/9e/redinhas.jpg?w=1200&h=-1&s=1",
+      "tagOne": "Beach",
+      "tagTwo": "Romantic Getaway"
     },
     {
       "id": 10,
       "city": "Málaga",
       "country": "Spain",
-      "description": "If we take the combination of culture and the sea and add a lively atmosphere, numerous tapas served in bars, cutting-edge neighbourhoods like Soho, areas like the port that have transformed and become more modern and monuments with centuries of history, the result is a city full of passion that anyone would want to explore.",
+      "description": "Vibrant coastal city with historic landmarks and lively tapas bars",
+      "text-description": "If we take the combination of culture and the sea and add a lively atmosphere, numerous tapas served in bars, cutting-edge neighbourhoods like Soho, areas like the port that have transformed and become more modern and monuments with centuries of history, the result is a city full of passion that anyone would want to explore.",
       "activity": "Gibralfaro Castle",
       "highlight": "Picasso Musseum",
-      "image": "https://images.pexels.com/photos/19156674/pexels-photo-19156674/free-photo-of-square-in-malaga-spain.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "image": "https://images.pexels.com/photos/19156674/pexels-photo-19156674/free-photo-of-square-in-malaga-spain.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tagOne": "Beach",
+      "tagTwo": "Culinary delights"
     },
     {
       "id": 11,
       "city": "Wildalpen",
       "country": "Austria",
-      "description": "Wildalpen is an idyllic village in the district of Liezen in Austria that is perfect for hiking. Wildalpen's geographical location makes it a popular destination for outdoor enthusiasts and nature lovers.",
+      "description":  "Scenic village oasis for hiking and nature lovers amidst stunning landscapes",
+      "text-description": "Wildalpen is an idyllic village in the district of Liezen in Austria that is perfect for hiking. Wildalpen's geographical location makes it a popular destination for outdoor enthusiasts and nature lovers.",
       "activity": "Rafting, hiking",
       "highlight": "Green River",
-      "image": "https://images.pexels.com/photos/20278017/pexels-photo-20278017.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      "image": "https://images.pexels.com/photos/20278017/pexels-photo-20278017.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tagOne": "Mountain",
+      "tagTwo": "Adventure Destination"
     },
     {
       "id": 12,
       "city": "Albufeira",
       "country": "Portugal",
-      "description": "The salt-washed and vibrant holidaying mecca of the Algarve. Spreading from a buzzy marina that's peppered with bars and clubs to a cobbled Old Town that bursts with souvenir stalls and Portuguese tapas joints, Albufeira is the hub of a region that's famed for its beaches and quaint hill towns. You won't have to go far to escape the crowds.",
+      "description": "Coastal gem with sandy beaches, charming Old Town, and vibrant nightlife",
+      "text-description": "The salt-washed and vibrant holidaying mecca of the Algarve. Spreading from a buzzy marina that's peppered with bars and clubs to a cobbled Old Town that bursts with souvenir stalls and Portuguese tapas joints, Albufeira is the hub of a region that's famed for its beaches and quaint hill towns. You won't have to go far to escape the crowds.",
       "activity": "Old Town",
       "highlight": "Praia da Coelha",
-      "image": "https://fullsuitcase.com/wp-content/uploads/2023/02/Albufeira-Portugal-best-things-to-do-and-places-to-visit.jpg"
+      "image": "https://fullsuitcase.com/wp-content/uploads/2023/02/Albufeira-Portugal-best-things-to-do-and-places-to-visit.jpg",
+      "tagOne": "Beach",
+      "tagTwo": "Nightlife"
     },
     {
       "id": 13,
       "city": "Tokyo",
       "country": "Japan",
-      "description": "Tokyo, Japan’s busy capital, mixes the ultramodern and the traditional, from neon-lit skyscrapers to historic temples. The opulent Meiji Shinto Shrine is known for its towering gate and surrounding woods. The Imperial Palace sits amid large public gardens.",
+      "description": "Futuristic city blending tradition with modernity, offering culinary adventures and cultural treasures",
+      "text-description": "Tokyo, Japan’s busy capital, mixes the ultramodern and the traditional, from neon-lit skyscrapers to historic temples. The opulent Meiji Shinto Shrine is known for its towering gate and surrounding woods. The Imperial Palace sits amid large public gardens.",
       "activity": "Eat Sushi",
       "highlight": "Hamarikyu Garden",
-      "image": "https://images.pexels.com/photos/2506923/pexels-photo-2506923.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      "image": "https://images.pexels.com/photos/2506923/pexels-photo-2506923.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tagOne": "Cityscape",
+      "tagTwo": "Art and Museums"
     },
     {
       "id": 14,
       "city": "Bali",
       "country": "Indonesia",
-      "description": "Bali is a province of Indonesia and the westernmost of the Lesser Sunda Islands. East of Java and west of Lombok, the province includes the island of Bali and a few smaller offshore islands, notably Nusa Penida, Nusa Lembongan, and Nusa Ceningan to the southeast.",
+      "description": "Tropical paradise of lush landscapes, ancient temples, and serene beaches",
+      "text-description": "Bali is a province of Indonesia and the westernmost of the Lesser Sunda Islands. East of Java and west of Lombok, the province includes the island of Bali and a few smaller offshore islands, notably Nusa Penida, Nusa Lembongan, and Nusa Ceningan to the southeast.",
       "activity": "Chilling at Gorgeous Beaches",
       "highlight": "Ancient Temples",
-      "image": "https://images.pexels.com/photos/931007/pexels-photo-931007.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      "image": "https://images.pexels.com/photos/931007/pexels-photo-931007.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tagOne": "Beach",
+      "tagTwo": "Island Paradise"
     },
     {
       "id": 15,
       "city": "Corfu",
       "country": "Greece",
-      "description": "Corfu is studded with whitewashed houses, Byzantine churches, and the remains of Venetian fortresses and Greek temples.",
+      "description": "Picturesque island with historic architecture and breathtaking coastal vistas",
+      "text-description": "Corfu is studded with whitewashed houses, Byzantine churches, and the remains of Venetian fortresses and Greek temples.",
       "activity": "Casa Parlante",
       "highlight": "Paleokastrtsa Beach",
-      "image": "https://static.wixstatic.com/media/ffadd3_87de6407c5de413982816f739c08a7b1~mv2.jpg/v1/fill/w_1080%2Ch_1080%2Cal_c%2Cq_90/file.jpg"
+      "image": "https://static.wixstatic.com/media/ffadd3_87de6407c5de413982816f739c08a7b1~mv2.jpg/v1/fill/w_1080%2Ch_1080%2Cal_c%2Cq_90/file.jpg",
+      "tagOne": "Beach",
+      "tagTwo": "Romantic Getaway"
+
     },
     {
       "id": 16,
       "city": "London",
       "country": "United Kingdom ",
-      "description": "The capital of the United Kingdom is a thriving multicultural metropolis. The contrast between the spectacular historic sights, the grind of a big city, and the lively cultural and foodie scene makes London an interesting and exciting destination.",
+      "description": "Iconic cityscape of historic landmarks, diverse culture, and culinary delights",
+      "text-description": "The capital of the United Kingdom is a thriving multicultural metropolis. The contrast between the spectacular historic sights, the grind of a big city, and the lively cultural and foodie scene makes London an interesting and exciting destination.",
       "activity": "Historic Sightseeing",
       "highlight": "Notting Hill",
-      "image": "https://images.pexels.com/photos/89432/pexels-photo-89432.jpeg"
+      "image": "https://images.pexels.com/photos/89432/pexels-photo-89432.jpeg",
+      "tagOne": "Cityscape",
+      "tagTwo": "Art and Museums"
     },
     {
       "id": 17,
       "city": "Portland",
       "country": "USA",
-      "description": "Portland, Oregon, is one of America's most unique cities. With a world-class food scene, plentiful local breweries, and postcard-perfect scenery, it's surprising that more people don't visit this eclectic city.",
+      "description":  "Quirky city known for its indie spirit, craft beer, and lush greenery",
+      "text-description": "Portland, Oregon, is one of America's most unique cities. With a world-class food scene, plentiful local breweries, and postcard-perfect scenery, it's surprising that more people don't visit this eclectic city.",
       "activity": "Portland Saturday Market",
       "highlight": "Forest Park",
-      "image": "https://images.pexels.com/photos/1699574/pexels-photo-1699574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      "image": "https://images.pexels.com/photos/1699574/pexels-photo-1699574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tagOne": "Cityscape",
+      "tagTwo": "Culinary delights" 
+
     },
     {
       "id": 18,
       "city": "Reykjavík",
       "country": "Iceland",
-      "description": "Reykjavik, on the coast of Iceland, is the country's capital and largest city. It's home to the National and Saga museums, tracing Iceland's Viking history. The striking concrete Hallgrimskirkja church and rotating Perlan glass dome offer sweeping views of the sea and nearby hills. Exemplifying the island's volcanic activity is the geothermal Blue Lagoon spa, near the village of Grindavik.",
+      "description": "Capital of cool with geothermal wonders, vibrant nightlife, and stunning landscapes",
+      "text-description": "Reykjavik, on the coast of Iceland, is the country's capital and largest city. It's home to the National and Saga museums, tracing Iceland's Viking history. The striking concrete Hallgrimskirkja church and rotating Perlan glass dome offer sweeping views of the sea and nearby hills. Exemplifying the island's volcanic activity is the geothermal Blue Lagoon spa, near the village of Grindavik.",
       "activity": "Whale Watching ",
       "highlight": "Trip to Þingvellir National Park",
-      "image": "https://images.pexels.com/photos/1009136/pexels-photo-1009136.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      "image": "https://images.pexels.com/photos/1009136/pexels-photo-1009136.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tagOne": "Cityscape",
+      "tagTwo": "Adventure Destination"
     },
     {
       "id": 19,
       "city": "Riga",
       "country": "Latvia",
-      "description": "Riga, the capital of Latvia, is not only the crown jewel of Latvia, but also of the Baltics. Riga's Old Town is a UNESCO World Heritage Site. Riga has more than 600 000 inhabitants, making it the largest city in the Baltic States",
+      "description": "Enchanting cityscape of medieval charm and vibrant cultural scene",
+      "text-description": "Riga, the capital of Latvia, is not only the crown jewel of Latvia, but also of the Baltics. Riga's Old Town is a UNESCO World Heritage Site. Riga has more than 600 000 inhabitants, making it the largest city in the Baltic States",
       "activity": "Husky dog sled kart ride",
       "highlight": "Ratslaukums",
-      "image": "https://images.pexels.com/photos/5871332/pexels-photo-5871332.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      "image": "https://images.pexels.com/photos/5871332/pexels-photo-5871332.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tagOne": "Cityscape",
+      "tagTwo": "Art and Museums"
     },
     {
       "id": 20,
       "city": "Dubrovnik",
       "country": "Croatia",
-      "description": "Dubrovnik is a city in southern Croatia fronting the Adriatic Sea. It's known for its distinctive Old Town, encircled with massive stone walls completed in the 16th century. Its well-preserved buildings range from baroque St. Blaise Church to Renaissance Sponza Palace and Gothic Rector's Palace, now a history museum.",
+      "description": "Historic gem with ancient walls, cobblestone streets, and azure Adriatic waters",
+      "text-description": "Dubrovnik is a city in southern Croatia fronting the Adriatic Sea. It's known for its distinctive Old Town, encircled with massive stone walls completed in the 16th century. Its well-preserved buildings range from baroque St. Blaise Church to Renaissance Sponza Palace and Gothic Rector's Palace, now a history museum.",
       "activity": "Game of Thrones Tour",
       "highlight": "Old Town",
-      "image": "https://images.pexels.com/photos/580897/pexels-photo-580897.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      "image": "https://images.pexels.com/photos/580897/pexels-photo-580897.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tagOne": "Cityscape",
+      "tagTwo": "Romantic Getaway"
     },
     {
       "id": 21,
       "city": "Holbox Island",
       "country": "Mexico",
-      "description": "Holbox Island is a hidden gem off the coast of Mexico's Yucatan Peninsula. It's known for its pristine beaches, crystal-clear waters, and laid-back atmosphere. Visitors can relax on the beach, swim with whale sharks, and explore the island's unique flora and fauna.",
+      "description": "Hidden paradise of pristine beaches and laid-back vibes off the Yucatan coast",
+      "text-description": "Holbox Island is a hidden gem off the coast of Mexico's Yucatan Peninsula. It's known for its pristine beaches, crystal-clear waters, and laid-back atmosphere. Visitors can relax on the beach, swim with whale sharks, and explore the island's unique flora and fauna.",
       "activity": "Swimming with Whale Sharks",
       "highlight": "Pristine Beaches",
-      "image": "https://images.pexels.com/photos/11481626/pexels-photo-11481626.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "image": "https://images.pexels.com/photos/11481626/pexels-photo-11481626.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tagOne": "Beach",
+      "tagTwo": "Island Paradise"
     },
     {
       "id": 22,
       "city": "Amsterdam",
       "country": "Netherlands",
-      "description": "Amsterdam, the capital city of the Netherlands, is famous for its picturesque canals, historic architecture, and vibrant cultural scene. Visitors can explore world-class museums such as the Van Gogh Museum and Rijksmuseum, stroll through charming neighborhoods like Jordaan, and cruise along the iconic Amsterdam canals. With its relaxed atmosphere and bicycle-friendly streets, Amsterdam is a delight to explore on foot or by bike.",
+      "description": "Picturesque canals, historic architecture, and vibrant cultural scene",
+      "text-description": "Amsterdam, the capital city of the Netherlands, is famous for its picturesque canals, historic architecture, and vibrant cultural scene. Visitors can explore world-class museums such as the Van Gogh Museum and Rijksmuseum, stroll through charming neighborhoods like Jordaan, and cruise along the iconic Amsterdam canals. With its relaxed atmosphere and bicycle-friendly streets, Amsterdam is a delight to explore on foot or by bike.",
       "activity": "Anne Frank House",
       "hightlight": "Rijksmuseum",
-      "image": "https://images.pexels.com/photos/1414467/pexels-photo-1414467.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "image": "https://images.pexels.com/photos/1414467/pexels-photo-1414467.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tagOne": "Cityscape",
+      "tagTwo": "Nightlife"
     },
     {
       "id": 23,
       "city": "Queenstown",
       "country": "New Zealand",
-      "description": "Queenstown, located on New Zealand's South Island, is renowned for its stunning natural beauty, adrenaline-pumping outdoor activities, and vibrant nightlife. Visitors can enjoy a range of adventure sports such as bungee jumping, skydiving, and jet boating, as well as explore the breathtaking landscapes of nearby Fiordland National Park. With its charming alpine village atmosphere and welcoming locals, Queenstown is a must-visit destination for adventure seekers and nature lovers alike.",
+      "description": "Adventure capital surrounded by breathtaking landscapes and adrenaline-pumping activities",
+      "text-description": "Queenstown, located on New Zealand's South Island, is renowned for its stunning natural beauty, adrenaline-pumping outdoor activities, and vibrant nightlife. Visitors can enjoy a range of adventure sports such as bungee jumping, skydiving, and jet boating, as well as explore the breathtaking landscapes of nearby Fiordland National Park. With its charming alpine village atmosphere and welcoming locals, Queenstown is a must-visit destination for adventure seekers and nature lovers alike.",
       "activity": "Skydiving",
       "hightlight": "Milford Sound",
-      "image": "https://images.pexels.com/photos/14788541/pexels-photo-14788541.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "image": "https://images.pexels.com/photos/14788541/pexels-photo-14788541.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tagOne": "Mountain",
+      "tagTwo": "Adventure Destination"
     },
     {
       "id": 24,
       "city": "Prague",
       "country": "Czech Republic",
-      "description": "Prague, the capital city of the Czech Republic, is known for its stunning medieval architecture, rich history, and vibrant cultural scene. Visitors can explore iconic landmarks such as Prague Castle, Charles Bridge, and the Old Town Square, as well as sample delicious Czech cuisine and world-famous beer. With its fairy-tale charm and romantic atmosphere, Prague is a popular destination for travelers from around the world.",
+      "description": "Fairytale city of stunning architecture, rich history, and romantic ambiance",
+      "text-description": "Prague, the capital city of the Czech Republic, is known for its stunning medieval architecture, rich history, and vibrant cultural scene. Visitors can explore iconic landmarks such as Prague Castle, Charles Bridge, and the Old Town Square, as well as sample delicious Czech cuisine and world-famous beer. With its fairy-tale charm and romantic atmosphere, Prague is a popular destination for travelers from around the world.",
       "activity": "Prague Castle",
       "hightlight": "Charles Bridge",
-      "image": "https://images.pexels.com/photos/442583/pexels-photo-442583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "image": "https://images.pexels.com/photos/442583/pexels-photo-442583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tagOne": "Cityscape",
+      "tagTwo": "Art and Museums"
     },
     {
       "id": 25,
       "city": "Marrakech",
       "country": "Morocco",
-      "description": "Marrakech, located in western Morocco, is a vibrant city known for its bustling souks, historic medina, and stunning palaces and gardens. Visitors can wander through the maze-like streets of the medina, haggle for goods at the famous Jemaa el-Fnaa square, and explore architectural marvels such as the Bahia Palace and Saadian Tombs. With its rich history, vibrant culture, and warm hospitality, Marrakech offers a truly unforgettable experience.",
+      "description": "Exotic city of bustling souks, vibrant colors, and rich cultural heritage",
+      "text-description": "Marrakech, located in western Morocco, is a vibrant city known for its bustling souks, historic medina, and stunning palaces and gardens. Visitors can wander through the maze-like streets of the medina, haggle for goods at the famous Jemaa el-Fnaa square, and explore architectural marvels such as the Bahia Palace and Saadian Tombs. With its rich history, vibrant culture, and warm hospitality, Marrakech offers a truly unforgettable experience.",
       "activity": "Jardin Majorelle",
       "hightlight": "Jemaa el-Fnaa",
-      "image": "https://images.pexels.com/photos/6376611/pexels-photo-6376611.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "image": "https://images.pexels.com/photos/6376611/pexels-photo-6376611.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tagOne": "Cityscape",
+      "tagTwo": "Culinary delights"
     },
     {
       "id": 26,
       "city": "Santo Domingo",
       "country": "Dominican Republic",
-      "description": "Santo Domingo is the vibrant capital city of the Dominican Republic, known for its rich history, colonial architecture, and lively culture. Visitors can explore historic landmarks like the Zona Colonial and Alcazar de Colón, relax on beautiful beaches, and experience the city's vibrant nightlife.",
+      "description": "Colonial charm meets vibrant culture in the lively capital city",
+      "text-description": "Santo Domingo is the vibrant capital city of the Dominican Republic, known for its rich history, colonial architecture, and lively culture. Visitors can explore historic landmarks like the Zona Colonial and Alcazar de Colón, relax on beautiful beaches, and experience the city's vibrant nightlife.",
       "activity": "Exploring Zona Colonial",
       "highlight": "Malecón",
-      "image": "https://images.pexels.com/photos/17070246/pexels-photo-17070246/free-photo-of-street-and-water.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "image": "https://images.pexels.com/photos/17070246/pexels-photo-17070246/free-photo-of-street-and-water.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tagOne": "Cityscape",
+      "tagTwo": "Nightlife"
     },
     {
       "id": 27,
       "city": "Varadero",
       "country": "Cuba",
-      "description": "Varadero is a popular beach resort town in Cuba, known for its stunning beaches, turquoise waters, and vibrant nightlife. Visitors can relax on the beach, enjoy water sports like snorkeling and diving, and explore nearby attractions like the Varahicacos Ecological Reserve.",
+      "description":  "Beach paradise with crystal-clear waters and vibrant Caribbean atmosphere",
+      "text-description": "Varadero is a popular beach resort town in Cuba, known for its stunning beaches, turquoise waters, and vibrant nightlife. Visitors can relax on the beach, enjoy water sports like snorkeling and diving, and explore nearby attractions like the Varahicacos Ecological Reserve.",
       "activity": "Beach Relaxation",
       "highlight": "Varadero Beach",
-      "image": "https://images.pexels.com/photos/3687922/pexels-photo-3687922.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "image": "https://images.pexels.com/photos/3687922/pexels-photo-3687922.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tagOne": "Beach",
+      "tagTwo": "Nightlife"
     },
     {
       "id": 28,
       "city": "Colmar",
       "country": "France",
-      "description": "Colmar is a picturesque town in the Alsace region of France, known for its colorful half-timbered houses, cobblestone streets, and charming canals. Visitors can explore the historic Old Town, visit the Unterlinden Museum, and sample delicious Alsatian cuisine.",
+      "description": "Quaint town of colorful houses, cobblestone streets, and Alsatian charm",
+      "text-description": "Colmar is a picturesque town in the Alsace region of France, known for its colorful half-timbered houses, cobblestone streets, and charming canals. Visitors can explore the historic Old Town, visit the Unterlinden Museum, and sample delicious Alsatian cuisine.",
       "activity": "Exploring Old Town",
       "highlight": "Little Venice",
-      "image": "https://images.pexels.com/photos/2901212/pexels-photo-2901212.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "image": "https://images.pexels.com/photos/2901212/pexels-photo-2901212.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tagOne": "Cityscape",
+      "tagTwo": "Romantic Getaway"
     },
     {
       "id": 29,
       "city": "Lausanne",
       "country": "Switzerland",
-      "description": "Lausanne is a picturesque city on the shores of Lake Geneva in Switzerland, known for its stunning views, historic architecture, and vibrant cultural scene. Visitors can explore the Olympic Museum, stroll along the lakeside promenade, and enjoy panoramic views from the Cathedral of Notre Dame.",
+      "description": "Scenic city on Lake Geneva with cultural treasures and breathtaking views",
+      "text-description": "Lausanne is a picturesque city on the shores of Lake Geneva in Switzerland, known for its stunning views, historic architecture, and vibrant cultural scene. Visitors can explore the Olympic Museum, stroll along the lakeside promenade, and enjoy panoramic views from the Cathedral of Notre Dame.",
       "activity": "Visiting the Olympic Museum",
       "highlight": "Ouchy Promenade",
-      "image": "https://images.pexels.com/photos/6318902/pexels-photo-6318902.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "image": "https://images.pexels.com/photos/6318902/pexels-photo-6318902.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tagOne": "Cityscape",
+      "tagTwo": "Romantic Getaway"
     },
     {
       "id": 30,
       "city": "Ghent",
       "country": "Belgium",
-      "description": "Ghent is a charming city in Belgium, known for its medieval architecture, vibrant cultural scene, and picturesque canals. Visitors can explore historic landmarks like Gravensteen Castle and St. Bavo's Cathedral, stroll along the Graslei and Korenlei waterfront, and enjoy Belgian cuisine at local restaurants.",
+      "description": "Medieval gem with picturesque canals, historic architecture, and vibrant arts scene",
+      "text-description": "Ghent is a charming city in Belgium, known for its medieval architecture, vibrant cultural scene, and picturesque canals. Visitors can explore historic landmarks like Gravensteen Castle and St. Bavo's Cathedral, stroll along the Graslei and Korenlei waterfront, and enjoy Belgian cuisine at local restaurants.",
       "activity": "Exploring Gravensteen Castle",
       "highlight": "Graslei and Korenlei",
-      "image": "https://images.pexels.com/photos/12823414/pexels-photo-12823414.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    }
+      "image": "https://images.pexels.com/photos/12823414/pexels-photo-12823414.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tagOne": "Cityscape",
+      "tagTwo": "Art and Museums"
+    },
+    {
+      "id": 31,
+      "city": "San Andres",
+      "country": "Colombia",
+      "description": "Tropical paradise with pristine beaches, vibrant culture, and crystal-clear waters",
+      "text-description": "San Andres is a tropical paradise located in Colombia, renowned for its pristine beaches, vibrant culture, and crystal-clear waters. Visitors can relax on the soft white sands, indulge in delicious Caribbean cuisine, and explore the vibrant underwater world through snorkeling or diving adventures.",
+      "activity": "Snorkeling",
+      "highlight": "Johnny Cay",
+      "image": "https://images.pexels.com/photos/3417784/pexels-photo-3417784.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tagOne": "Beach",
+      "tagTwo": "Island Paradise"
+    },
+    {
+      "id": 32,
+      "city": "Valparaiso",
+      "country": "Chile",
+      "description": "Bohemian city with colorful hillside houses, artistic flair, and panoramic views",
+      "text-description": "Valparaiso is a bohemian city nestled along the Pacific coast of Chile, famous for its colorful hillside houses, artistic flair, and panoramic views of the ocean. Visitors can wander through its maze-like streets adorned with vibrant street art, ride the historic funiculars for stunning vistas, and immerse themselves in the city's lively cultural scene.",
+      "activity": "Riding funiculars",
+      "highlight": "Cerro Concepcion",
+      "image": "https://images.pexels.com/photos/12768099/pexels-photo-12768099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tagOne": "Cityscape",
+      "tagTwo": "Art and Museums"
+    },
+    {
+      "id": 33,
+      "city": "Machu Picchu",
+      "country": "Peru",
+      "description": "Ancient Incan citadel nestled in the Andes Mountains, offering breathtaking views and rich history",
+      "text-description": "Machu Picchu is an ancient Incan citadel located high in the Andes Mountains of Peru. It is renowned for its breathtaking panoramic views and rich historical significance. Visitors can explore the intricately constructed stone buildings, terraced fields, and ceremonial sites, all while marveling at the stunning natural beauty that surrounds this UNESCO World Heritage Site.",
+      "activity": "Hiking the Inca Trail",
+      "highlight": "Sun Gate (Inti Punku)",
+      "image": "https://images.pexels.com/photos/2929906/pexels-photo-2929906.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tagOne": "Mountain",
+      "tagTwo": "Historical Landmark"
+    },
+    {
+      "id": 34,
+      "city": "Vancouver",
+      "country": "Canada",
+      "description": "Cosmopolitan city surrounded by stunning natural beauty, offering diverse cultural experiences and outdoor adventures",
+      "text-description": "Vancouver is a vibrant cosmopolitan city nestled between the Pacific Ocean and the Coast Mountains in British Columbia, Canada. Renowned for its stunning natural beauty, including snow-capped mountains, lush forests, and picturesque waterfronts, Vancouver offers a wide range of outdoor activities such as hiking, skiing, and kayaking. The city also boasts a diverse cultural scene, with thriving arts and music communities, multicultural neighborhoods, and world-class dining experiences.",
+      "activity": "Stanley Park Seawall Walk",
+      "highlight": "Granville Island Public Market",
+      "image": "https://images.pexels.com/photos/2382868/pexels-photo-2382868.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tagOne": "Cityscape",
+      "tagTwo": "Culinary delights"
+    },
+    {
+      "id": 35,
+      "city": "Mérida",
+      "country": "Venezuela",
+      "description": "Andean city surrounded by breathtaking mountains, offering outdoor adventures and cultural richness",
+      "text-description": "Mérida is a charming Andean city nestled in the Venezuelan Andes, surrounded by breathtaking mountains and lush greenery. Known as the 'City of Eternal Spring' for its pleasant climate year-round, Mérida is a paradise for outdoor enthusiasts and adventure seekers. Visitors can explore the nearby Sierra Nevada National Park, home to Venezuela's highest peak, Pico Bolívar, and enjoy activities such as hiking, mountain biking, and paragliding. Additionally, Mérida boasts a rich cultural heritage, with colonial architecture, vibrant markets, and traditional Andean music and dance.",
+      "activity": "Cable Car Ride to Pico Espejo",
+      "highlight": "Plaza Bolívar and Cathedral of Mérida",
+      "image": "https://images.pexels.com/photos/11576792/pexels-photo-11576792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tagOne": "Mountain",
+      "tagTwo": "Adventure Destination"
+    },
+    {
+      "id": 36,
+      "city": "Malé",
+      "country": "Maldives",
+      "description": "Vibrant capital city offering a mix of bustling markets, historic mosques, and scenic waterfront",
+      "text-description": "Malé is the vibrant capital city of the Maldives, located on the southern edge of North Malé Atoll. It offers a mix of bustling markets, historic mosques, and a scenic waterfront. Visitors can explore landmarks such as the Old Friday Mosque, stroll along the waterfront promenade, and experience the local culture at the bustling fish market. Despite being small in size, Malé is a lively and bustling city that serves as the political, economic, and cultural hub of the Maldives.",
+      "activity": "Visit the Old Friday Mosque",
+      "highlight": "Local Fish Market",
+      "image": "https://images.pexels.com/photos/1287460/pexels-photo-1287460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tagOne": "Cityscape",
+      "tagTwo": "Cultural Experience"
+    },
+    {
+      "id": 37,
+      "city": "Phuket",
+      "country": "Thailand",
+      "description": "Thailand's largest island offering stunning beaches, vibrant nightlife, and cultural attractions",
+      "text-description": "Phuket is Thailand's largest island and a popular tourist destination known for its stunning beaches, vibrant nightlife, and rich cultural attractions. Visitors can explore picturesque beaches such as Patong, Kata, and Karon, indulge in water sports and boat tours, and discover historical landmarks like the Big Buddha and Old Phuket Town. With its diverse range of activities and attractions, Phuket offers something for every type of traveler.",
+      "activity": "Patong Nightlife",
+      "highlight": "Big Buddha",
+      "image": "https://images.pexels.com/photos/18223260/pexels-photo-18223260/free-photo-of-phi-phi-island.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tagOne": "Beach",
+      "tagTwo": "Nightlife"
+    },
+    {
+      "id": 38,
+      "city": "Seoul",
+      "country": "South Korea",
+      "description": "Dynamic metropolis blending traditional culture, modern architecture, and vibrant street life",
+      "text-description": "Seoul, the capital city of South Korea, is a dynamic metropolis known for its blending of traditional culture, modern architecture, and vibrant street life. Visitors can explore historic palaces like Gyeongbokgung and Changdeokgung, stroll along the bustling streets of Myeongdong and Insadong, and indulge in the city's diverse culinary scene. With its rich history, cutting-edge technology, and bustling urban atmosphere, Seoul offers a truly unique travel experience.",
+      "activity": "Gyeongbokgung Palace",
+      "highlight": "N Seoul Tower",
+      "image": "https://images.pexels.com/photos/2376710/pexels-photo-2376710.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tagOne": "Cityscape",
+      "tagTwo": "Culinary Delights"
+    },
+    {
+      "id": 39,
+      "city": "Cairo",
+      "country": "Egypt",
+      "description": "Historic city renowned for its ancient wonders, bustling souks, and vibrant street life",
+      "text-description": "Cairo is a historic city located in Egypt, renowned for its ancient wonders, bustling souks, and vibrant street life. Visitors can explore iconic landmarks such as the Giza Pyramids, the Sphinx, and the Egyptian Museum, which houses a vast collection of artifacts from ancient times. Wander through the narrow lanes of Khan El Khalili bazaar, sample delicious street food, and immerse yourself in the rich culture and history of this fascinating city.",
+      "activity": "Visit the Giza Pyramids",
+      "highlight": "Khan El Khalili Bazaar",
+      "image": "https://images.pexels.com/photos/3522880/pexels-photo-3522880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tagOne": "Historical",
+      "tagTwo": "Cultural Experience"
+    },
+    {
+      "id": 38,
+      "city": "Doha",
+      "country": "Qatar",
+      "description": "Modern city known for its stunning skyline, cultural attractions, and luxurious hospitality",
+      "text-description": "Doha is a modern city located on the coast of Qatar, known for its stunning skyline, cultural attractions, and luxurious hospitality. Visitors can admire architectural marvels such as the iconic Museum of Islamic Art, stroll along the picturesque Corniche promenade, and indulge in world-class dining experiences. With its rich heritage and cosmopolitan vibe, Doha offers a blend of tradition and modernity that captivates travelers from around the world.",
+      "activity": "Explore the Museum of Islamic Art",
+      "highlight": "Corniche Promenade",
+      "image": "https://images.pexels.com/photos/3237301/pexels-photo-3237301.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tagOne": "Cityscape",
+      "tagTwo": "Cultural Experience"
+    } 
   ]
 }
