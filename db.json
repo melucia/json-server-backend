@@ -182,13 +182,93 @@
     },
     {
       "id": 21,
-      "city": "PAB",
-      "country": "USA",
-      "description": "ABc",
-      "activity": "ABC",
-      "highlight": "CAB",
-      "image": "URL"
+      "city": "Holbox Island",
+      "country": "Mexico",
+      "description": "Holbox Island is a hidden gem off the coast of Mexico's Yucatan Peninsula. It's known for its pristine beaches, crystal-clear waters, and laid-back atmosphere. Visitors can relax on the beach, swim with whale sharks, and explore the island's unique flora and fauna.",
+      "activity": "Swimming with Whale Sharks",
+      "highlight": "Pristine Beaches",
+      "image": "https://images.pexels.com/photos/11481626/pexels-photo-11481626.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 22,
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "description": "Amsterdam, the capital city of the Netherlands, is famous for its picturesque canals, historic architecture, and vibrant cultural scene. Visitors can explore world-class museums such as the Van Gogh Museum and Rijksmuseum, stroll through charming neighborhoods like Jordaan, and cruise along the iconic Amsterdam canals. With its relaxed atmosphere and bicycle-friendly streets, Amsterdam is a delight to explore on foot or by bike.",
+      "activity": "Anne Frank House",
+      "hightlight": "Rijksmuseum",
+      "image": "https://images.pexels.com/photos/1414467/pexels-photo-1414467.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 23,
+      "city": "Queenstown",
+      "country": "New Zealand",
+      "description": "Queenstown, located on New Zealand's South Island, is renowned for its stunning natural beauty, adrenaline-pumping outdoor activities, and vibrant nightlife. Visitors can enjoy a range of adventure sports such as bungee jumping, skydiving, and jet boating, as well as explore the breathtaking landscapes of nearby Fiordland National Park. With its charming alpine village atmosphere and welcoming locals, Queenstown is a must-visit destination for adventure seekers and nature lovers alike.",
+      "activity": "Skydiving",
+      "hightlight": "Milford Sound",
+      "image": "https://images.pexels.com/photos/14788541/pexels-photo-14788541.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 24,
+      "city": "Prague",
+      "country": "Czech Republic",
+      "description": "Prague, the capital city of the Czech Republic, is known for its stunning medieval architecture, rich history, and vibrant cultural scene. Visitors can explore iconic landmarks such as Prague Castle, Charles Bridge, and the Old Town Square, as well as sample delicious Czech cuisine and world-famous beer. With its fairy-tale charm and romantic atmosphere, Prague is a popular destination for travelers from around the world.",
+      "activity": "Prague Castle",
+      "hightlight": "Charles Bridge",
+      "image": "https://images.pexels.com/photos/442583/pexels-photo-442583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 25,
+      "city": "Marrakech",
+      "country": "Morocco",
+      "description": "Marrakech, located in western Morocco, is a vibrant city known for its bustling souks, historic medina, and stunning palaces and gardens. Visitors can wander through the maze-like streets of the medina, haggle for goods at the famous Jemaa el-Fnaa square, and explore architectural marvels such as the Bahia Palace and Saadian Tombs. With its rich history, vibrant culture, and warm hospitality, Marrakech offers a truly unforgettable experience.",
+      "activity": "Jardin Majorelle",
+      "hightlight": "Jemaa el-Fnaa",
+      "image": "https://images.pexels.com/photos/6376611/pexels-photo-6376611.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 26,
+      "city": "Santo Domingo",
+      "country": "Dominican Republic",
+      "description": "Santo Domingo is the vibrant capital city of the Dominican Republic, known for its rich history, colonial architecture, and lively culture. Visitors can explore historic landmarks like the Zona Colonial and Alcazar de Colón, relax on beautiful beaches, and experience the city's vibrant nightlife.",
+      "activity": "Exploring Zona Colonial",
+      "highlight": "Malecón",
+      "image": "https://images.pexels.com/photos/17070246/pexels-photo-17070246/free-photo-of-street-and-water.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 27,
+      "city": "Varadero",
+      "country": "Cuba",
+      "description": "Varadero is a popular beach resort town in Cuba, known for its stunning beaches, turquoise waters, and vibrant nightlife. Visitors can relax on the beach, enjoy water sports like snorkeling and diving, and explore nearby attractions like the Varahicacos Ecological Reserve.",
+      "activity": "Beach Relaxation",
+      "highlight": "Varadero Beach",
+      "image": "https://images.pexels.com/photos/3687922/pexels-photo-3687922.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 28,
+      "city": "Colmar",
+      "country": "France",
+      "description": "Colmar is a picturesque town in the Alsace region of France, known for its colorful half-timbered houses, cobblestone streets, and charming canals. Visitors can explore the historic Old Town, visit the Unterlinden Museum, and sample delicious Alsatian cuisine.",
+      "activity": "Exploring Old Town",
+      "highlight": "Little Venice",
+      "image": "https://images.pexels.com/photos/2901212/pexels-photo-2901212.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 29,
+      "city": "Lausanne",
+      "country": "Switzerland",
+      "description": "Lausanne is a picturesque city on the shores of Lake Geneva in Switzerland, known for its stunning views, historic architecture, and vibrant cultural scene. Visitors can explore the Olympic Museum, stroll along the lakeside promenade, and enjoy panoramic views from the Cathedral of Notre Dame.",
+      "activity": "Visiting the Olympic Museum",
+      "highlight": "Ouchy Promenade",
+      "image": "https://images.pexels.com/photos/6318902/pexels-photo-6318902.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 30,
+      "city": "Ghent",
+      "country": "Belgium",
+      "description": "Ghent is a charming city in Belgium, known for its medieval architecture, vibrant cultural scene, and picturesque canals. Visitors can explore historic landmarks like Gravensteen Castle and St. Bavo's Cathedral, stroll along the Graslei and Korenlei waterfront, and enjoy Belgian cuisine at local restaurants.",
+      "activity": "Exploring Gravensteen Castle",
+      "highlight": "Graslei and Korenlei",
+      "image": "https://images.pexels.com/photos/12823414/pexels-photo-12823414.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }
-
   ]
 }
