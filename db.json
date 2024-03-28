@@ -1,285 +1,267 @@
 {
   "places": [
     {
-      "id": 1,
-      "city": "Seattle",
-      "country": "USA",
-      "latitude": 47.6062,
-      "longitude": -122.3321,
-      "description": "Lively city with stunning bay views and a relaxed Pacific Northwest vibe",
-      "textDescription": "Seattle is a lovely city, surrounded by the beautiful Elliot Bay and Lake Union, with gorgeous mountains towering in the background. As a city, Seattle isn't overwhelmingly large, or too complicated to tackle in a weekend, but it still has a big city feel and all of the services and excitement you expect.",
-      "activity": "Pike Place Market",
-      "highlight": "Space Needle",
-      "image": "https://images.pexels.com/photos/3964406/pexels-photo-3964406.jpeg",
-      "tagOne": "Cityscape",
-      "tagTwo": "Culinary delights"
+        "id": 1,
+        "city": "Seattle",
+        "country": "USA",
+        "latitude": 47.6062,
+        "longitude": -122.3321,
+        "description": "Lively city with stunning bay views and a relaxed Pacific Northwest vibe",
+        "textDescription": "Seattle is a lovely city, surrounded by the beautiful Elliot Bay and Lake Union, with gorgeous mountains towering in the background. As a city, Seattle isn't overwhelmingly large, or too complicated to tackle in a weekend, but it still has a big city feel and all of the services and excitement you expect.",
+        "activity": "Pike Place Market",
+        "highlight": "Space Needle",
+        "image": "https://images.pexels.com/photos/3964406/pexels-photo-3964406.jpeg",
+        "tag": ["Cityscape", "Culinary"]
     },
     {
-      "id": 2,
-      "city": "Cairns",
-      "country": "Australia",
-      "latitude": -16.9186,
-      "longitude": 145.7781,
-      "description": "Gateway to the Great Barrier Reef, offering vibrant coastal adventures",
-      "textDescription": "As the gateway to Far North Queensland, Cairns is the number one base for travellers exploring the Daintree Rainforest and the Great Barrier Reef. More accessible, affordable and lively than its northern, small town counterparts, Cairns casts a wide appeal, enticing all kinds of travellers, from families to honeymooners and backpackers.",
-      "activity": "Diving",
-      "highlight": "Great Barrier Reef",
-      "image": "https://images.pexels.com/photos/2397653/pexels-photo-2397653.jpeg",
-      "tagOne": "Beach",
-      "tagTwo": "Adventure Destination"
+        "id": 2,
+        
+        "city": "Cairns",
+        "country": "Australia",
+        "latitude": -16.9186,
+        "longitude": 145.7781,
+        "description": "Gateway to the Great Barrier Reef, offering vibrant coastal adventures",
+        "textDescription": "As the gateway to Far North Queensland, Cairns is the number one base for travellers exploring the Daintree Rainforest and the Great Barrier Reef. More accessible, affordable and lively than its northern, small town counterparts, Cairns casts a wide appeal, enticing all kinds of travellers, from families to honeymooners and backpackers.",
+        "activity": "Diving",
+        "highlight": "Great Barrier Reef",
+        "image": "https://images.pexels.com/photos/2397653/pexels-photo-2397653.jpeg",
+        "tag": ["Beach", "Adventure"]
     },
     {
-      "id": 3,
-      "city": "Copenhagen",
-      "country": "Denmark",
-      "latitude": 55.6761,
-      "longitude": 12.5683,
-      "description": "Blend of modernity and charm, with scenic canals and cozy streets",
-      "textDescription": "The capital of Denmark, the bykes and the hygge. Copenhagen features a blend of modern architecture and historical artifacts but also art galleries, narrow streets, canals, parks, and Baroque churches round out the city’s cultural attractions.",
-      "activity": "Nyhavn",
-      "highlight": "Christiania Free Town",
-      "image": "https://cdn.britannica.com/47/83447-050-42342CB1/Nyhavn-Canal-Copenhagen.jpg",
-      "tagOne": "Cityscape",
-      "tagTwo": "Art and Museums"
+        "id": 3,
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "latitude": 55.6761,
+        "longitude": 12.5683,
+        "description": "Blend of modernity and charm, with scenic canals and cozy streets",
+        "textDescription": "The capital of Denmark, the bykes and the hygge. Copenhagen features a blend of modern architecture and historical artifacts but also art galleries, narrow streets, canals, parks, and Baroque churches round out the city’s cultural attractions.",
+        "activity": "Nyhavn",
+        "highlight": "Christiania Free Town",
+        "image": "https://cdn.britannica.com/47/83447-050-42342CB1/Nyhavn-Canal-Copenhagen.jpg",
+        "tag": ["Cityscape", "Art and Museums"]
     },
     {
-      "id": 4,
-      "city": "Ushuaia",
-      "country": "Argentina",
-      "latitude": -54.8019,
-      "longitude": -68.3029,
-      "description": "Southernmost city for thrilling outdoor activities amidst breathtaking landscapes",
-      "textDescription": "Ushuaia claims to be the world's southernmost city. It's a perfect place for skiing and hiking in its wonderful lakes and parks.",
-      "activity": "End of the world train",
-      "highlight": "Esmeralda Lagoon",
-      "image": "https://images.pexels.com/photos/11545135/pexels-photo-11545135.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "tagOne": "Mountain",
-      "tagTwo": "Adventure Destination"
+        "id": 4,
+        "city": "Ushuaia",
+        "country": "Argentina",
+        "latitude": -54.8019,
+        "longitude": -68.3029,
+        "description": "Southernmost city for thrilling outdoor activities amidst breathtaking landscapes",
+        "textDescription": "Ushuaia claims to be the world's southernmost city. It's a perfect place for skiing and hiking in its wonderful lakes and parks.",
+        "activity": "End of the world train",
+        "highlight": "Esmeralda Lagoon",
+        "image": "https://images.pexels.com/photos/11545135/pexels-photo-11545135.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "tag": ["Mountain", "Adventure"]
     },
     {
-      "id": 5,
-      "city": "Port Barton",
-      "country": "Philipines",
-      "latitude": 10.411729285042474,
-      "longitude": 119.17765969185493,
-      "description": "Tranquil paradise with pristine beaches and captivating island hopping",
-      "textDescription": "Port Barton 's quiet and stunning. The combination makes you feel what island paradise should look like. A day trip to Port Barton with its nearby islands certainly completes your provincial journey. If you're looking for a fun outdoor activity, try kayaking. From Port Barton, kayaking to other neighboring islands, such as the Sandbar or Starfish Island, is possible as it's nearby. Make sure to wear a safety jacket!",
-      "activity": "Kayaking",
-      "highlight": "Boat tour to other islands",
-      "image": "https://assets-global.website-files.com/576fd5a8f192527e50a4b95c/5d864545f0c5f3f16281fe55_port%20barton%20island.jpg",
-      "tagOne": "Beach",
-      "tagTwo": "Island Paradise"
+        "id": 5,
+        "city": "Port Barton",
+        "country": "Philipines",
+        "latitude": 10.411729285042474,
+        "longitude": 119.17765969185493,
+        "description": "Tranquil paradise with pristine beaches and captivating island hopping",
+        "textDescription": "Port Barton 's quiet and stunning. The combination makes you feel what island paradise should look like. A day trip to Port Barton with its nearby islands certainly completes your provincial journey. If you're looking for a fun outdoor activity, try kayaking. From Port Barton, kayaking to other neighboring islands, such as the Sandbar or Starfish Island, is possible as it's nearby. Make sure to wear a safety jacket!",
+        "activity": "Kayaking",
+        "highlight": "Boat tour to other islands",
+        "image": "https://assets-global.website-files.com/576fd5a8f192527e50a4b95c/5d864545f0c5f3f16281fe55_port%20barton%20island.jpg",
+        "tag": ["Beach", "Island "]
     },
     {
-      "id": 6,
-      "city": "Berlin",
-      "country": "Germany",
-      "latitude": 52.52,
-      "longitude": 13.405,
-      "description": "Dynamic metropolis blending history, culture, and electrifying nightlife",
-      "textDescription": "Berlin's combo of glamour and grit is bound to mesmerise all those keen to explore its vibrant culture, cutting-edge architecture, fabulous food, intense parties and tangible history.",
-      "activity": "Museums",
-      "highlight": "Alex (Berlin Television Tower)",
-      "image": "https://images.pexels.com/photos/1963082/pexels-photo-1963082.jpeg",
-      "tagOne": "Cityscape",
-      "tagTwo": "Nightlife"
+        "id": 6,
+        "city": "Berlin",
+        "country": "Germany",
+        "latitude": 52.52,
+        "longitude": 13.405,
+        "description": "Dynamic metropolis blending history, culture, and electrifying nightlife",
+        "textDescription": "Berlin's combo of glamour and grit is bound to mesmerise all those keen to explore its vibrant culture, cutting-edge architecture, fabulous food, intense parties and tangible history.",
+        "activity": "Museums",
+        "highlight": "Alex (Berlin Television Tower)",
+        "image": "https://images.pexels.com/photos/1963082/pexels-photo-1963082.jpeg",
+        "tag": ["Cityscape", "Nightlife"]
     },
     {
-      "id": 7,
-      "city": "Cape Town",
-      "country": "South Africa",
-      "latitude": -33.918861,
-      "longitude": 18.4233,
-      "description": "Diverse city with iconic mountain backdrops and rich cultural heritage",
-      "textDescription": "A coming-together of cultures, cuisines and landscapes, there's nowhere quite like Cape Town, a singularly beautiful city crowned by the magnificent Table Mountain National Park.",
-      "activity": "Robben Island",
-      "highlight": "Twelve Apostel",
-      "image": "https://images.pexels.com/photos/3770287/pexels-photo-3770287.jpeg",
-      "tagOne": "Beach",
-      "tagTwo": "Mountain"
+        "id": 7,
+        "city": "Cape Town",
+        "country": "South Africa",
+        "latitude": -33.918861,
+        "longitude": 18.4233,
+        "description": "Diverse city with iconic mountain backdrops and rich cultural heritage",
+        "textDescription": "A coming-together of cultures, cuisines and landscapes, there's nowhere quite like Cape Town, a singularly beautiful city crowned by the magnificent Table Mountain National Park.",
+        "activity": "Robben Island",
+        "highlight": "Twelve Apostel",
+        "image": "https://images.pexels.com/photos/3770287/pexels-photo-3770287.jpeg",
+        "tag": ["Beach", "Mountain"]
     },
     {
-      "id": 8,
-      "city": "Rome",
-      "country": "Italy",
-      "latitude": 41.9028,
-      "longitude": 12.4964,
-      "description": "Eternal city of ancient wonders, culinary delights, and romantic charm",
-      "textDescription": "The eternal city. The beauty of Rome and its 3,000 years of existence is that it always knows how to surprise. Perfectly combines a lot of history and delicious food. ",
-      "activity": "The Colosseum",
-      "highlight": "Trevi Fountain",
-      "image": "https://images.pexels.com/photos/753639/pexels-photo-753639.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "tagOne": "Cityscape",
-      "tagTwo": "Romantic Getaway"
+        "id": 8,
+        "city": "Rome",
+        "country": "Italy",
+        "latitude": 41.9028,
+        "longitude": 12.4964,
+        "description": "Eternal city of ancient wonders, culinary delights, and romantic charm",
+        "textDescription": "The eternal city. The beauty of Rome and its 3,000 years of existence is that it always knows how to surprise. Perfectly combines a lot of history and delicious food. ",
+        "activity": "The Colosseum",
+        "highlight": "Trevi Fountain",
+        "image": "https://images.pexels.com/photos/753639/pexels-photo-753639.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "tag": ["Cityscape", "Romantic"]
     },
     {
-      "id": 9,
-      "city": "Jericoacoara",
-      "country": "Brazil",
-      "latitude": -2.7974,
-      "longitude": -40.5144,
-      "description": "Idyllic coastal village surrounded by sand dunes and crystal-clear waters",
-      "textDescription": "Jericoacoara is an idyllic peaceful fishing village situated amongst sand dunes on Brazil's North East Coast. Jeri, as it's affectionately called by the locals, is surrounded by sweet-water lagoons, a calm ocean and enormous sand dunes and enjoys 320 sunny days a year",
-      "activity": "Lagoa do Paraiso",
-      "highlight": "Duna do Por do Sol",
-      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/8a/61/9e/redinhas.jpg?w=1200&h=-1&s=1",
-      "tagOne": "Beach",
-      "tagTwo": "Romantic Getaway"
+        "id": 9,
+        "city": "Jericoacoara",
+        "country": "Brazil",
+        "latitude": -2.7974,
+        "longitude": -40.5144,
+        "description": "Idyllic coastal village surrounded by sand dunes and crystal-clear waters",
+        "textDescription": "Jericoacoara is an idyllic peaceful fishing village situated amongst sand dunes on Brazil's North East Coast. Jeri, as it's affectionately called by the locals, is surrounded by sweet-water lagoons, a calm ocean and enormous sand dunes and enjoys 320 sunny days a year",
+        "activity": "Lagoa do Paraiso",
+        "highlight": "Duna do Por do Sol",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/8a/61/9e/redinhas.jpg?w=1200&h=-1&s=1",
+        "tag": ["Beach", "Romantic"]
     },
     {
-      "id": 10,
-      "city": "Málaga",
-      "country": "Spain",
-      "latitude": 36.7212,
-      "longitude": -4.4214,
-      "description": "Vibrant coastal city with historic landmarks and lively tapas bars",
-      "textDescription": "If we take the combination of culture and the sea and add a lively atmosphere, numerous tapas served in bars, cutting-edge neighbourhoods like Soho, areas like the port that have transformed and become more modern and monuments with centuries of history, the result is a city full of passion that anyone would want to explore.",
-      "activity": "Gibralfaro Castle",
-      "highlight": "Picasso Musseum",
-      "image": "https://images.pexels.com/photos/19156674/pexels-photo-19156674/free-photo-of-square-in-malaga-spain.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "tagOne": "Beach",
-      "tagTwo": "Culinary delights"
+        "id": 10,
+        "city": "Málaga",
+        "country": "Spain",
+        "latitude": 36.7212,
+        "longitude": -4.4214,
+        "description": "Vibrant coastal city with historic landmarks and lively tapas bars",
+        "textDescription": "If we take the combination of culture and the sea and add a lively atmosphere, numerous tapas served in bars, cutting-edge neighbourhoods like Soho, areas like the port that have transformed and become more modern and monuments with centuries of history, the result is a city full of passion that anyone would want to explore.",
+        "activity": "Gibralfaro Castle",
+        "highlight": "Picasso Musseum",
+        "image": "https://images.pexels.com/photos/19156674/pexels-photo-19156674/free-photo-of-square-in-malaga-spain.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "tag": ["Beach", "Culinary"]
     },
     {
-      "id": 11,
-      "city": "Wildalpen",
-      "country": "Austria",
-      "latitude": 47.7254,
-      "longitude": 14.8184,
-      "description": "Scenic village oasis for hiking and nature lovers amidst stunning landscapes",
-      "textDescription": "Wildalpen is an idyllic village in the district of Liezen in Austria that is perfect for hiking. Wildalpen's geographical location makes it a popular destination for outdoor enthusiasts and nature lovers.",
-      "activity": "Rafting, hiking",
-      "highlight": "Green River",
-      "image": "https://images.pexels.com/photos/20278017/pexels-photo-20278017.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "tagOne": "Mountain",
-      "tagTwo": "Adventure Destination"
+        "id": 11,
+        "city": "Wildalpen",
+        "country": "Austria",
+        "latitude": 47.7254,
+        "longitude": 14.8184,
+        "description": "Scenic village oasis for hiking and nature lovers amidst stunning landscapes",
+        "textDescription": "Wildalpen is an idyllic village in the district of Liezen in Austria that is perfect for hiking. Wildalpen's geographical location makes it a popular destination for outdoor enthusiasts and nature lovers.",
+        "activity": "Rafting, hiking",
+        "highlight": "Green River",
+        "image": "https://images.pexels.com/photos/20278017/pexels-photo-20278017.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "tag": ["Mountain", "Adventure"]
     },
     {
-      "id": 12,
-      "city": "Albufeira",
-      "country": "Portugal",
-      "latitude": 37.0891,
-      "longitude": -8.2479,
-      "description": "Coastal gem with sandy beaches, charming Old Town, and vibrant nightlife",
-      "textDescription": "The salt-washed and vibrant holidaying mecca of the Algarve. Spreading from a buzzy marina that's peppered with bars and clubs to a cobbled Old Town that bursts with souvenir stalls and Portuguese tapas joints, Albufeira is the hub of a region that's famed for its beaches and quaint hill towns. You won't have to go far to escape the crowds.",
-      "activity": "Old Town",
-      "highlight": "Praia da Coelha",
-      "image": "https://fullsuitcase.com/wp-content/uploads/2023/02/Albufeira-Portugal-best-things-to-do-and-places-to-visit.jpg",
-      "tagOne": "Beach",
-      "tagTwo": "Nightlife"
+        "id": 12,
+        "city": "Albufeira",
+        "country": "Portugal",
+        "latitude": 37.0891,
+        "longitude": -8.2479,
+        "description": "Coastal gem with sandy beaches, charming Old Town, and vibrant nightlife",
+        "textDescription": "The salt-washed and vibrant holidaying mecca of the Algarve. Spreading from a buzzy marina that's peppered with bars and clubs to a cobbled Old Town that bursts with souvenir stalls and Portuguese tapas joints, Albufeira is the hub of a region that's famed for its beaches and quaint hill towns. You won't have to go far to escape the crowds.",
+        "activity": "Old Town",
+        "highlight": "Praia da Coelha",
+        "image": "https://fullsuitcase.com/wp-content/uploads/2023/02/Albufeira-Portugal-best-things-to-do-and-places-to-visit.jpg",
+        "tag": ["Beach", "Nightlife"]
     },
     {
-      "id": 13,
-      "city": "Tokyo",
-      "country": "Japan",
-      "latitude": 35.6895,
-      "longitude": 139.6917,
-      "description": "Futuristic city blending tradition with modernity, offering culinary adventures and cultural treasures",
-      "textDescription": "Tokyo, Japan’s busy capital, mixes the ultramodern and the traditional, from neon-lit skyscrapers to historic temples. The opulent Meiji Shinto Shrine is known for its towering gate and surrounding woods. The Imperial Palace sits amid large public gardens.",
-      "activity": "Eat Sushi",
-      "highlight": "Hamarikyu Garden",
-      "image": "https://images.pexels.com/photos/2506923/pexels-photo-2506923.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "tagOne": "Cityscape",
-      "tagTwo": "Art and Museums"
+        "id": 13,
+        "city": "Tokyo",
+        "country": "Japan",
+        "latitude": 35.6895,
+        "longitude": 139.6917,
+        "description": "Futuristic city blending tradition with modernity, offering culinary adventures and cultural treasures",
+        "textDescription": "Tokyo, Japan’s busy capital, mixes the ultramodern and the traditional, from neon-lit skyscrapers to historic temples. The opulent Meiji Shinto Shrine is known for its towering gate and surrounding woods. The Imperial Palace sits amid large public gardens.",
+        "activity": "Eat Sushi",
+        "highlight": "Hamarikyu Garden",
+        "image": "https://images.pexels.com/photos/2506923/pexels-photo-2506923.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "tag": ["Cityscape", "Art and Museums"]
     },
     {
-      "id": 14,
-      "city": "Bali",
-      "country": "Indonesia",
-      "latitude": -8.3405,
-      "longitude": 115.092,
-      "description": "Tropical paradise of lush landscapes, ancient temples, and serene beaches",
-      "textDescription": "Bali is a province of Indonesia and the westernmost of the Lesser Sunda Islands. East of Java and west of Lombok, the province includes the island of Bali and a few smaller offshore islands, notably Nusa Penida, Nusa Lembongan, and Nusa Ceningan to the southeast.",
-      "activity": "Chilling at Gorgeous Beaches",
-      "highlight": "Ancient Temples",
-      "image": "https://images.pexels.com/photos/931007/pexels-photo-931007.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "tagOne": "Beach",
-      "tagTwo": "Island Paradise"
+        "id": 14,
+        "city": "Bali",
+        "country": "Indonesia",
+        "latitude": -8.3405,
+        "longitude": 115.092,
+        "description": "Tropical paradise of lush landscapes, ancient temples, and serene beaches",
+        "textDescription": "Bali is a province of Indonesia and the westernmost of the Lesser Sunda Islands. East of Java and west of Lombok, the province includes the island of Bali and a few smaller offshore islands, notably Nusa Penida, Nusa Lembongan, and Nusa Ceningan to the southeast.",
+        "activity": "Chilling at Gorgeous Beaches",
+        "highlight": "Ancient Temples",
+        "image": "https://images.pexels.com/photos/931007/pexels-photo-931007.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "tag": ["Beach", "Island"]
     },
     {
-      "id": 15,
-      "city": "Corfu",
-      "country": "Greece",
-      "latitude": 39.6243,
-      "longitude": 19.9217,
-      "description": "Picturesque island with historic architecture and breathtaking coastal vistas",
-      "textDescription": "Corfu is studded with whitewashed houses, Byzantine churches, and the remains of Venetian fortresses and Greek temples.",
-      "activity": "Casa Parlante",
-      "highlight": "Paleokastrtsa Beach",
-      "image": "https://static.wixstatic.com/media/ffadd3_87de6407c5de413982816f739c08a7b1~mv2.jpg/v1/fill/w_1080%2Ch_1080%2Cal_c%2Cq_90/file.jpg",
-      "tagOne": "Beach",
-      "tagTwo": "Romantic Getaway"
+        "id": 15,
+        "city": "Corfu",
+        "country": "Greece",
+        "latitude": 39.6243,
+        "longitude": 19.9217,
+        "description": "Picturesque island with historic architecture and breathtaking coastal vistas",
+        "textDescription": "Corfu is studded with whitewashed houses, Byzantine churches, and the remains of Venetian fortresses and Greek temples. Spend the morning wandering through the narrow, winding streets of the old town, where shops, tavernas, and cafes welcome you with open arms.",
+        "activity": "Old Fortress",
+        "highlight": "Paleokastritsa Monastery",
+        "image": "https://images.pexels.com/photos/1217980/pexels-photo-1217980.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "tag": ["Beach", "Historical"]
     },
     {
-      "id": 16,
-      "city": "London",
-      "country": "United Kingdom ",
-      "latitude": 51.5074,
-      "longitude": -0.1278,
-      "description": "Iconic cityscape of historic landmarks, diverse culture, and culinary delights",
-      "textDescription": "The capital of the United Kingdom is a thriving multicultural metropolis. The contrast between the spectacular historic sights, the grind of a big city, and the lively cultural and foodie scene makes London an interesting and exciting destination.",
-      "activity": "Historic Sightseeing",
-      "highlight": "Notting Hill",
-      "image": "https://images.pexels.com/photos/89432/pexels-photo-89432.jpeg",
-      "tagOne": "Cityscape",
-      "tagTwo": "Art and Museums"
+        "id": 16,
+        "city": "Sydney",
+        "country": "Australia",
+        "latitude": -33.8688,
+        "longitude": 151.2093,
+        "description": "Iconic city with stunning landmarks, beautiful beaches, and a vibrant cultural scene",
+        "textDescription": "Sydney is the capital of New South Wales and one of Australia's largest cities. Sydney is best known for its harbourfront Sydney Opera House, with a distinctive sail-like design, and the Sydney Harbour Bridge, which is also an iconic landmark.",
+        "activity": "Sydney Opera House",
+        "highlight": "Bondi Beach",
+        "image": "https://images.pexels.com/photos/37350/sydney-opera-house-australia-sydney-sculpture-37350.jpeg",
+        "tag": ["Beach", "Cityscape"]
     },
     {
-      "id": 17,
-      "city": "Portland",
-      "country": "USA",
-      "latitude": 45.5051,
-      "longitude": -122.675,
-      "description": "Quirky city known for its indie spirit, craft beer, and lush greenery",
-      "textDescription": "Portland, Oregon, is one of America's most unique cities. With a world-class food scene, plentiful local breweries, and postcard-perfect scenery, it's surprising that more people don't visit this eclectic city.",
-      "activity": "Portland Saturday Market",
-      "highlight": "Forest Park",
-      "image": "https://images.pexels.com/photos/1699574/pexels-photo-1699574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "tagOne": "Cityscape",
-      "tagTwo": "Culinary delights"
+        "id": 17,
+        "city": "Banff",
+        "country": "Canada",
+        "latitude": 51.1784,
+        "longitude": -115.5708,
+        "description": "Outdoor paradise nestled in the Canadian Rockies with pristine wilderness and stunning vistas",
+        "textDescription": "Banff National Park is Canada's oldest national park and was established in 1885. Located in the Rocky Mountains, 110–180 kilometres west of Calgary, Alberta, Banff encompasses 6,641 square kilometres of mountainous terrain, with numerous glaciers and ice fields, dense coniferous forest, and alpine landscapes.",
+        "activity": "Lake Louise",
+        "highlight": "Banff Gondola",
+        "image": "https://images.pexels.com/photos/1162364/pexels-photo-1162364.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "tag": ["Mountain", "Adventure"]
     },
     {
-      "id": 18,
-      "city": "Reykjavík",
-      "country": "Iceland",
-      "latitude": 64.1466,
-      "longitude": -21.9426,
-      "description": "Capital of cool with geothermal wonders, vibrant nightlife, and stunning landscapes",
-      "textDescription": "Reykjavik, on the coast of Iceland, is the country's capital and largest city. It's home to the National and Saga museums, tracing Iceland's Viking history. The striking concrete Hallgrimskirkja church and rotating Perlan glass dome offer sweeping views of the sea and nearby hills. Exemplifying the island's volcanic activity is the geothermal Blue Lagoon spa, near the village of Grindavik.",
-      "activity": "Whale Watching ",
-      "highlight": "Trip to Þingvellir National Park",
-      "image": "https://images.pexels.com/photos/1009136/pexels-photo-1009136.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "tagOne": "Cityscape",
-      "tagTwo": "Adventure Destination"
+        "id": 18,
+        "city": "Reykjavik",
+        "country": "Iceland",
+        "latitude": 64.1466,
+        "longitude": -21.9426,
+        "description": "Cosmopolitan capital surrounded by dramatic landscapes and geothermal wonders",
+        "textDescription": "Reykjavik, on the coast of Iceland, is the country's capital and largest city. It's home to the National and Saga museums, tracing Iceland’s Viking history. The striking concrete Hallgrimskirkja church and rotating Perlan glass dome offer sweeping views of the sea and nearby hills.",
+        "activity": "Blue Lagoon",
+        "highlight": "Golden Circle",
+        "image": "https://images.pexels.com/photos/4036621/pexels-photo-4036621.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "tag": ["Cityscape", "Island"]
     },
     {
-      "id": 19,
-      "city": "Riga",
-      "country": "Latvia",
-      "latitude": 56.9496,
-      "longitude": 24.1052,
-      "description": "Enchanting cityscape of medieval charm and vibrant cultural scene",
-      "textDescription": "Riga, the capital of Latvia, is not only the crown jewel of Latvia but also of the Baltics. Riga's Old Town is a UNESCO World Heritage Site. Riga has more than 600,000 inhabitants, making it the largest city in the Baltic States",
-      "activity": "Husky dog sled kart ride",
-      "highlight": "Ratslaukums",
-      "image": "https://images.pexels.com/photos/5871332/pexels-photo-5871332.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "tagOne": "Cityscape",
-      "tagTwo": "Art and Museums"
+        "id": 19,
+        "city": "Zurich",
+        "country": "Switzerland",
+        "latitude": 47.3769,
+        "longitude": 8.5417,
+        "description": "Financial hub with a picturesque Old Town, scenic lake, and thriving cultural scene",
+        "textDescription": "Zurich, a global center for banking and finance, lies at the north end of Lake Zurich in northern Switzerland. The picturesque lanes of the central Altstadt (Old Town), on either side of the Limmat River, reflect its pre-medieval history.",
+        "activity": "Lake Zurich",
+        "highlight": "Zurich Zoo",
+        "image": "https://images.pexels.com/photos/5848701/pexels-photo-5848701.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "tag": ["Cityscape", "Cultural"]
     },
     {
-      "id": 20,
-      "city": "Dubrovnik",
-      "country": "Croatia",
-      "latitude": 42.6507,
-      "longitude": 18.0944,
-      "description": "Historic gem with ancient walls, cobblestone streets, and azure Adriatic waters",
-      "textDescription": "Dubrovnik is a city in southern Croatia fronting the Adriatic Sea. It's known for its distinctive Old Town, encircled with massive stone walls completed in the 16th century. Its well-preserved buildings range from baroque St. Blaise Church to Renaissance Sponza Palace and Gothic Rector's Palace, now a history museum.",
-      "activity": "Game of Thrones Tour",
-      "highlight": "Old Town",
-      "image": "https://images.pexels.com/photos/580897/pexels-photo-580897.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "tagOne": "Cityscape",
-      "tagTwo": "Romantic Getaway"
+        "id": 20,
+        "city": "Bora Bora",
+        "country": "French Polynesia",
+        "latitude": -16.5004,
+        "longitude": -151.7415,
+        "description": "Idyllic island paradise with crystal-clear waters and overwater bungalows",
+        "textDescription": "Bora Bora is a small South Pacific island northwest of Tahiti in French Polynesia. Surrounded by sand-fringed motus (islets) and a turquoise lagoon protected by a coral reef, it’s known for its scuba diving. It's also a popular luxury resort destination where some guest bungalows are perched over the water on stilts.",
+        "activity": "Swimming with Sharks",
+        "highlight": "Mount Otemanu",
+        "image": "https://images.pexels.com/photos/6342806/pexels-photo-6342806.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "tag": ["Beach", "Island"]
     },
+
     {
       "id": 21,
       "city": "Holbox Island",
@@ -291,8 +273,7 @@
       "activity": "Swimming with Whale Sharks",
       "highlight": "Pristine Beaches",
       "image": "https://images.pexels.com/photos/11481626/pexels-photo-11481626.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "tagOne": "Beach",
-      "tagTwo": "Island Paradise"
+      "tag": ["Beach", "Island"]
     },
     {
       "id": 22,
@@ -305,8 +286,7 @@
       "activity": "Anne Frank House",
       "hightlight": "Rijksmuseum",
       "image": "https://images.pexels.com/photos/1414467/pexels-photo-1414467.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "tagOne": "Cityscape",
-      "tagTwo": "Nightlife"
+      "tag": ["Cityscape", "Nightlife"]
     },
     {
       "id": 23,
@@ -319,8 +299,7 @@
       "activity": "Skydiving",
       "hightlight": "Milford Sound",
       "image": "https://images.pexels.com/photos/14788541/pexels-photo-14788541.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "tagOne": "Mountain",
-      "tagTwo": "Adventure Destination"
+      "tag": ["Mountain", "Adventure"]
     },
     {
       "id": 24,
@@ -333,8 +312,7 @@
       "activity": "Prague Castle",
       "hightlight": "Charles Bridge",
       "image": "https://images.pexels.com/photos/442583/pexels-photo-442583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "tagOne": "Cityscape",
-      "tagTwo": "Art and Museums"
+      "tag": ["Cityscape", "Art and Museums"]
     },
     {
       "id": 25,
@@ -347,8 +325,7 @@
       "activity": "Jardin Majorelle",
       "hightlight": "Jemaa el-Fnaa",
       "image": "https://images.pexels.com/photos/6376611/pexels-photo-6376611.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "tagOne": "Cityscape",
-      "tagTwo": "Culinary delights"
+      "tag": ["Cityscape", "Culinary"]
     },
     {
       "id": 26,
@@ -361,8 +338,7 @@
       "activity": "Exploring Zona Colonial",
       "highlight": "Malecón",
       "image": "https://images.pexels.com/photos/17070246/pexels-photo-17070246/free-photo-of-street-and-water.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "tagOne": "Cityscape",
-      "tagTwo": "Nightlife"
+      "tag": ["Cityscape", "Nightlife"]
     },
     {
       "id": 27,
@@ -375,8 +351,7 @@
       "activity": "Beach Relaxation",
       "highlight": "Varadero Beach",
       "image": "https://images.pexels.com/photos/3687922/pexels-photo-3687922.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "tagOne": "Beach",
-      "tagTwo": "Nightlife"
+      "tag": ["Beach", "Nightlife"]
     },
     {
       "id": 28,
@@ -389,8 +364,7 @@
       "activity": "Exploring Old Town",
       "highlight": "Little Venice",
       "image": "https://images.pexels.com/photos/2901212/pexels-photo-2901212.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "tagOne": "Cityscape",
-      "tagTwo": "Romantic Getaway"
+      "tag": ["Cityscape", "Romantic"]
     },
     {
       "id": 29,
@@ -403,8 +377,7 @@
       "activity": "Visiting the Olympic Museum",
       "highlight": "Ouchy Promenade",
       "image": "https://images.pexels.com/photos/6318902/pexels-photo-6318902.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "tagOne": "Cityscape",
-      "tagTwo": "Romantic Getaway"
+      "tag": ["Cityscape", "Romantic Getaway"]
     },
     {
       "id": 30,
@@ -417,8 +390,7 @@
       "activity": "Exploring Gravensteen Castle",
       "highlight": "Graslei and Korenlei",
       "image": "https://images.pexels.com/photos/12823414/pexels-photo-12823414.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "tagOne": "Cityscape",
-      "tagTwo": "Art and Museums"
+      "tag": ["Cityscape", "Art and Museums"]
     },
     {
       "id": 31,
@@ -431,8 +403,7 @@
       "activity": "Snorkeling",
       "highlight": "Johnny Cay",
       "image": "https://images.pexels.com/photos/3417784/pexels-photo-3417784.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "tagOne": "Beach",
-      "tagTwo": "Island Paradise"
+      "tag": ["Beach", "Island"]
     },
     {
       "id": 32,
@@ -445,8 +416,7 @@
       "activity": "Riding funiculars",
       "highlight": "Cerro Concepcion",
       "image": "https://images.pexels.com/photos/12768099/pexels-photo-12768099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "tagOne": "Cityscape",
-      "tagTwo": "Art and Museums"
+      "tag": ["Cityscape", "Art and Museums"]
     },
     {
       "id": 33,
@@ -459,8 +429,7 @@
       "activity": "Hiking the Inca Trail",
       "highlight": "Sun Gate (Inti Punku)",
       "image": "https://images.pexels.com/photos/2929906/pexels-photo-2929906.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "tagOne": "Mountain",
-      "tagTwo": "Historical Landmark"
+      "tag": ["Mountain", "Historical"]
     },
     {
       "id": 34,
@@ -473,8 +442,7 @@
       "activity": "Stanley Park Seawall Walk",
       "highlight": "Granville Island Public Market",
       "image": "https://images.pexels.com/photos/2382868/pexels-photo-2382868.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "tagOne": "Cityscape",
-      "tagTwo": "Culinary delights"
+      "tag": ["Cityscape", "Culinary"]
     },
     {
       "id": 35,
@@ -487,8 +455,7 @@
       "activity": "Cable Car Ride to Pico Espejo",
       "highlight": "Plaza Bolívar and Cathedral of Mérida",
       "image": "https://images.pexels.com/photos/11576792/pexels-photo-11576792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "tagOne": "Mountain",
-      "tagTwo": "Adventure Destination"
+      "tag": ["Mountain", "Adventure"]
     },
     {
       "id": 36,
@@ -501,8 +468,7 @@
       "activity": "Visit the Old Friday Mosque",
       "highlight": "Local Fish Market",
       "image": "https://images.pexels.com/photos/1287460/pexels-photo-1287460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "tagOne": "Cityscape",
-      "tagTwo": "Cultural Experience"
+      "tag": ["Cityscape", "Cultural"]
     },
     {
       "id": 37,
@@ -515,8 +481,7 @@
       "activity": "Patong Nightlife",
       "highlight": "Big Buddha",
       "image": "https://images.pexels.com/photos/18223260/pexels-photo-18223260/free-photo-of-phi-phi-island.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "tagOne": "Beach",
-      "tagTwo": "Nightlife"
+      "tag": ["Beach", "Nightlife"]
     },
     {
       "id": 38,
@@ -529,8 +494,7 @@
       "activity": "Gyeongbokgung Palace",
       "highlight": "N Seoul Tower",
       "image": "https://images.pexels.com/photos/2376710/pexels-photo-2376710.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "tagOne": "Cityscape",
-      "tagTwo": "Culinary Delights"
+      "tag": ["Cityscape", "Culinary"]
     },
     {
       "id": 39,
@@ -543,8 +507,8 @@
       "activity": "Visit the Giza Pyramids",
       "highlight": "Khan El Khalili Bazaar",
       "image": "https://images.pexels.com/photos/3522880/pexels-photo-3522880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "tagOne": "Historical",
-      "tagTwo": "Cultural Experience"
+      "tag": ["Historical", "Cultural" ]
+
     },
     {
       "id": 40,
@@ -557,8 +521,7 @@
       "activity": "Explore the Museum of Islamic Art",
       "highlight": "Corniche Promenade",
       "image": "https://images.pexels.com/photos/3237301/pexels-photo-3237301.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "tagOne": "Cityscape",
-      "tagTwo": "Cultural Experience"
+      "tag": ["Cityscape", "Cultural" ]
     }
   ]
 } 
